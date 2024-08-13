@@ -294,7 +294,7 @@ const Login = () => {
           </Typography>
           <img
             src="/assets/about.png"
-            alt="Description of image"
+            alt="demo of the website"
             style={{
               maxWidth: "65%",
               maxHeight: "75%",

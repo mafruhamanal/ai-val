@@ -2193,5 +2193,6 @@ Try not to flash yourself and teammates, communicate your flashes to maximize yo
 
 Contact and Support
 How do I report bugs or give feedback about the chatbot?
+
 Your feedback is valuable! You can report bugs or provide feedback directly through the chatbot or by contacting the support team at support@valorantchatbot.com.
 This Valorant Chatbot is designed to be your comprehensive guide to the game, offering detailed insights and practical tips to enhance your experience and performance. Whether you're looking to learn new strategies, improve your aim, or simply get quick answers to your in-game questions, the chatbot is here to help you every step of the way.

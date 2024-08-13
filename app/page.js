@@ -33,10 +33,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Val Bot</title>
+        <title>Val ChatBot</title>
         <meta
           name="description"
-          content="Effortlessly learn more about Valorant with this AI-driven chat bot."
+          content="Learn more about Valorant with this AI-driven chat bot."
         />
       </Head>
       {authenticated ? <Chatbot /> : null}
