@@ -155,7 +155,7 @@ export default function Home() {
           }}
         >
           Ready to assist you with anything val-related you need to know to help
-          you get out of the trenches. Road to Radiant! Get started!
+          you get out of the trenches. Road to Radiant! Lets get you started
         </Typography>
       </Box>
       <Stack
@@ -165,8 +165,6 @@ export default function Home() {
         height="100%"
         maxHeight="600px"
         borderRadius={2}
-        // boxShadow={3}
-        // bgcolor="white"
         bgcolor="rgba(255, 255, 255, 0.5)"
         p={2}
         spacing={3}
@@ -180,7 +178,7 @@ export default function Home() {
           fontSize={14}
           paddingX={1}
           sx={{
-            overflowX: "hidden", // Prevent horizontal scrolling
+            overflowX: "hidden",
             "&::-webkit-scrollbar": {
               width: "8px",
             },
@@ -233,7 +231,7 @@ export default function Home() {
           }}
         >
           <TextField
-            placeholder="Ask Val Bot anything.."
+            placeholder="Ask Val ChatBot anything.."
             fullWidth
             value={message}
             onChange={(e) => setMessage(e.target.value)}
@@ -265,7 +263,6 @@ export default function Home() {
               width: "45px",
               height: "45px",
               color: "black",
-              // marginLeft: "-20px",
               "&:hover": {
                 bgcolor: "#b64d54",
               },
