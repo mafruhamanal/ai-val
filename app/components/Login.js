@@ -51,7 +51,7 @@ const Login = () => {
         isSmallScreen ? "linear-gradient(to bottom, #f3c1c1, #f4efc5)" : "white"
       }
     >
-      {/* Left Side - Login Form */}
+
       <Box
         display="flex"
         flexDirection="column"
@@ -62,10 +62,8 @@ const Login = () => {
         height="100%"
         padding={isSmallScreen ? "20px" : "55px"}
       >
-        {/* Logo */}
-        <Box display="flex" alignItems="center" marginBottom="25px"></Box>
 
-        {/* Welcome Back */}
+
         <Typography
           variant="h4"
           gutterBottom
@@ -74,7 +72,7 @@ const Login = () => {
           {isSignUp ? "Create an Account" : "Welcome back!"}
         </Typography>
 
-        {/* Sign Up Link */}
+
         <Typography variant="body2" fontFamily="Poppins" marginBottom="30px">
           {isSignUp ? "Already have an account? " : "New to Valorant ChatBot? "}
           <Link
@@ -87,7 +85,7 @@ const Login = () => {
           </Link>
         </Typography>
 
-        {/* Name Input - Only Show During Sign-Up */}
+
         {isSignUp && (
           <>
             <Typography
@@ -201,7 +199,7 @@ const Login = () => {
           }}
         />
 
-        {/* Error Message */}
+
         {error && (
           <Typography
             color="error"
@@ -211,7 +209,7 @@ const Login = () => {
           </Typography>
         )}
 
-        {/* Sign In/Sign Up Button */}
+
         <Button
           variant="contained"
           color="primary"
@@ -235,7 +233,7 @@ const Login = () => {
         </Button>
       </Box>
 
-      {/* Right Side - Image/Gradient */}
+
       {!isSmallScreen && (
         <Box
           width="60%"
