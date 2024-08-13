@@ -5,7 +5,7 @@ import { OpenAIEmbeddings } from "@langchain/openai";
 
 export async function GET() {
   try {
-    const result = await fetch("http://localhost:3000/info.txt");
+    const result = await fetch("http://localhost:3000/infos.txt");
     const text = await result.text();
 
     const splitter = new RecursiveCharacterTextSplitter({
