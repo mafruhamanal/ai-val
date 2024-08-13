@@ -1,0 +1,2197 @@
+Valorant Chatbot Overview
+What is the Valorant Chatbot?
+The Valorant Chatbot is your ultimate AI-powered companion for mastering Valorant! Whether you're new to the game or a seasoned player, the chatbot is here to provide detailed information on maps, weapons, abilities, and agents. It also offers winning strategies and answers to common questions to help you dominate the battlefield. Think of it as your personal in-game coach, available 24/7 to elevate your gameplay.
+
+What services does the Valorant Chatbot provide?
+The chatbot can help you with a variety of in-game aspects, including:
+
+Map Information: Detailed breakdowns of every map, including callouts, choke points, and optimal strategies for attack and defense.
+Weapons: Comprehensive stats and comparisons for all weapons, including damage, fire rate, recoil patterns, and recommendations for different playstyles.
+Abilities: A full rundown of every ability in the game, including tips on how to use them effectively and which agents have which abilities.
+Agents: Information on each agent, including their abilities, role in the team, and best strategies to utilize their strengths.
+Winning Strategies: Tactical advice and strategies for both solo and team play to help you climb the ranks.
+FAQs: Answers to common questions about gameplay, updates, and tips to improve your performance.
+How do I access the Valorant Chatbot?
+You can interact with the chatbot through the Valorant official website, the game client, or via social media platforms like Discord. It's your go-to source for quick tips and detailed insights, anytime you need them.
+
+Is the Valorant Chatbot secure?
+Yes! The chatbot is designed with the latest security protocols to ensure that your interactions are safe and private. Your personal data and game stats are handled securely, so you can focus on improving your game without worry.
+
+FAQs
+Maps
+
+What are the key features of each map?
+Each map in Valorant has unique features such as multiple bomb sites, verticality, and special areas like Bind's teleporters or Haven's three bomb sites. The chatbot provides a detailed layout and optimal strategies for each.
+
+How can I master callouts on a map?
+Learning callouts is crucial for effective communication with your team. The chatbot can guide you through each map's callouts, helping you memorize key locations and their strategic importance.
+
+
+Bind Map Overview
+Unique Features
+Teleporters
+
+Bind's most distinctive feature is its two one-way teleporters:
+A Short to B Short: Teleporter entrance is located at A Short; the exit is at B Short.
+B Long to A Lobby: Teleporter entrance is located at B Long; the exit is at A Lobby.
+To use a teleporter, players walk into the wall section designated as the entrance, which transports them to a small exit room. The exit door in this room is closed by default and opens automatically when approached by players inside. Players outside the exit room cannot open the doors, but they can shoot through them.
+Object Interaction
+
+Objects such as abilities, the spike, and dropped weapons can also be sent through teleporters. They maintain their velocity and can open the exit door if they travel far enough to trigger the door sensor.
+Audio Cues
+
+All players on the map receive an audio cue whenever a teleporter is used by an agent or an object.
+Map Layout
+A Site
+
+A Short: A common entry point for attackers, leading to the A site.
+A Bath: A crucial area adjacent to A site, with adjusted doorways and radianite crates.
+A Site: Features various cover options, including a small bench outside Short A for attackers.
+B Site
+
+B Long: An entry point leading to the B teleporter.
+B Short: The exit of the teleporter from A Short.
+B Hall: Adjacent to B Site, with a utility window added for improved access.
+Mid-Section
+
+Bind does not have a traditional mid-section. Instead, players navigate the map via teleporters and other pathways.
+Spawn Areas
+
+Defender Spawn: Adjusted doorway to B Site for improved access.
+Attacker Spawn: Features various entry points to A and B Sites.
+Map Updates
+v7.02
+
+Fixed a bug affecting teleport audio for controlled abilities like Sova’s Owl Drone.
+v6.07
+
+Adjusted exit room locations and widened various doorways to improve gameplay flow.
+v4.0
+
+Changed cover configurations at A Short and added a small bench for attackers.
+v3.06
+
+Adjusted crates on A Site and made planting options safer for attackers.
+v1.02
+
+Improved clearing angles at various locations and prevented Spycam exploits.
+v1.01
+
+Fixed Spycam and Cyber Cage interactions with teleporters.
+v1.0
+
+Implemented fixes for map exploits and enhanced level collision.
+v0.50
+
+Added automatic Spike drop from elevated positions and fixed various exploits.
+v0.49
+
+Optimized map geometry and materials for better gameplay consistency.
+Lore
+Bind's Setting
+Located in Rabat, Morocco, where Kingdom Corporation has set up a radianite refinery and is expanding its operations. The locals resist the corporation’s projects, opposing the destruction of cultural property for Kingdom’s gain.
+Trivia
+Bind and Rabat are closely associated with Cypher, who is a central figure on the map.
+
+Abyss Map Overview
+Unique Features
+Outer Boundaries and Death Drops
+
+Abyss is unique in that it has no outer boundaries, meaning players can fall off the map and die if they venture too far. The map's design includes narrow ledges and jump shortcuts known as Danger and Secret positions, adding strategic elements to map navigation.
+Ascenders
+
+A Site to A Tower: An ascender that allows players to move from A Site up to A Tower.
+B Main to Mid Bend: An ascender that connects B Main to Mid Bend.
+Vent Doors
+
+Both entrances to the Vent area are secured by doors with 120 HP. These doors absorb damage and gunfire until they are destroyed. They start blue, turn yellow as they take damage, and turn red when they are near destruction. Once destroyed, the passageway remains open for the rest of the round.
+Mid Death Drop
+
+The central area of Mid features a significant death drop that players must navigate carefully. To reach Catwalk from Top or Library, players need to jump over this drop to an ascender.
+Map Layout
+A Site
+
+A Site: Contains key positions like A Tower and the ascender leading to it.
+Vent Area: Accessible via doors that must be damaged to open.
+B Site
+
+B Main: Entry point with an ascender connecting to Mid Bend.
+Mid
+
+Catwalk: Can be accessed by jumping over the death drop in Mid.
+Top and Library: High ground areas from which players can access Catwalk.
+Danger and Secret Positions
+
+Danger: Narrow ledges on the outer boundary, used for jumping shortcuts.
+Secret: Another narrow ledge area offering additional strategic movement options.
+Map Updates
+v9.02
+
+Fixed issues with Spike getting stuck on ledges and a bug causing Omen to die from specific teleportation spots.
+Corrected several visual bugs and improved map functionality.
+v9.01
+
+Cleaned up Cypher’s Spycam spots and improved Wingman’s Spike plant pathing on A Site.
+Addressed visual and collision bugs across the map and fixed issues with Viper’s Pit spread.
+v9.0
+
+Resolved unintended boost positions and bugs allowing players to get under the map.
+Fixed issues with A Site cover visibility and an Omen exploit related to spawn barriers.
+v8.11
+
+Added various updates and adjustments to map functionality.
+Trivia
+Name Origin
+The map’s name, Abyss, was teased using the Scions of Hourglass' alphabet in the Episode 08: DEFIANCE: Act 3 splash screen.
+It was officially mentioned in a PlayStation article about VALORANT’s console beta prior to the full reveal at Masters Shanghai.
+
+Ascent Map Overview
+Unique Features
+Mechanical Doors
+
+A Link Door: Located on A Site, can be opened or closed using a switch next to the door. The door has 500 HP and becomes permanently open once destroyed.
+B Market Door: Found on B Site, it also has a switch (on a table in Toolshed) to control its state. It has the same mechanics as the A Link door.
+Destructible Panels
+
+Courtyard to Link Walls: Each wall has a destructible panel with 400 HP. These panels start blue, turn yellow, and then red as they take damage. Once destroyed, they allow players to wallbang through for the rest of the round.
+Destructible Glass Pane
+
+A Window: Looks into A Garden and is destroyed by bullets, ability projectiles, or guided abilities (e.g., Phoenix’s Blaze). Abilities that require possession (e.g., Sova’s Owl Drone) or mobile abilities that aren't directly controlled (e.g., Raze’s Boom Bot) do not break the glass.
+Map Layout
+A Site
+
+A Link: The door here can be opened or closed using a switch and has a destructible panel.
+A Garden: Connected to A Window, which features a destructible glass pane.
+B Site
+
+B Market: The door here can be controlled with a switch and is protected by a destructible panel.
+Courtyard
+
+Walls Separating Courtyard from Link: Feature destructible panels that affect visibility and gunfire.
+Mid
+
+Ascenders and Movement Areas: Facilitates player movement across the map.
+Map Updates
+v6.0
+
+Fixed an issue where abilities could break the door at Market in unintended ways.
+v4.04
+
+Adjusted the B orb location for easier access from a lower box.
+v3.06
+
+Modified A Site crate to make it less penetrable, improving defender safety.
+v2.09
+
+Addressed issues where players could get stuck between Sage’s Barrier Orb and mechanical doors.
+v1.02
+
+Made various adjustments to improve angle clearing and map navigation.
+v1.01
+
+Fixed issues with weapons falling through the world and wall penetration.
+v1.0
+
+Initial release and added various features.
+Trivia
+Venetian Landmarks
+
+Ascent includes notable Venetian landmarks such as St. Mark's Campanile and St. Mark's Basilica.
+B Site Similarity
+
+The B Site layout resembles the Bomb Plant Practice area from the Practice Map.
+Development History
+
+Ascent was the first map created for VALORANT, with its release delayed due to extensive iteration.
+League of Legends Reference
+
+A park bench in Mid Bottom is themed after Tahm Kench from League of Legends, referencing the "Unbench the Kench" meme.
+Cinematic Connections
+
+The map's backstory involves Venice being lifted into the sky after a spike detonation, as shown in the cinematic DUELISTS and DUALITY.
+Jett Reference
+
+It was implied that Ω-Jett was responsible for the spike detonation in Venice, and there was a scrapped quote from Jett hinting at this event before the existence of Omega Earth was revealed.
+
+Haven Map Overview
+Unique Features
+Three Spike Sites
+
+A Site, B Site, and C Site: Haven is unique for having three distinct spike sites, offering diverse strategic possibilities. This setup allows for more dynamic gameplay and requires defenders to split their resources and attention across multiple sites.
+Destructible Panels
+
+Mid Doors: Both doors at Mid are covered by destructible panels with 400 HP. The panels start blue, turn yellow, and then red as they take damage. Once destroyed, they allow players to wallbang through for the rest of the round.
+Ultimate Orbs
+
+Locations: Ultimate orbs are located at A Long and C Long (Dragon), providing key opportunities for players to gain their ultimate abilities.
+Map Layout
+A Site
+
+A Long: Features a destructible panel on the door.
+A Lobby: Has cover that was adjusted in v1.02 to open up space for additional sight lines.
+B Site
+
+B Main and B Site: The map includes a large open area and site-specific cover.
+C Site
+
+C Long: Hosts the ultimate orb and features a destructible panel on the door.
+C Site Cover: Modified in v3.06 to make it less penetrable and safer for attackers.
+Mid
+
+Mid Doors/Garage: Includes destructible panels that can be damaged and destroyed, allowing for strategic plays.
+Map Updates
+v7.07
+
+Updated visual effects for destructible door panels at Mid Doors/Garage.
+v4.10
+
+Removed some pixel collision issues and restricted certain boosting abilities on site covers.
+v3.06
+
+Adjusted C Site crates to be less penetrable, improving defender safety.
+v1.03
+
+Fixed an issue where the Spike could not be retrieved once dropped in certain spots.
+v1.02
+
+Made adjustments to improve angle clearing and gameplay, including changes to Garage Doors, A Lobby, and A Sewer.
+v1.0
+
+Initial release with bug fixes and optimizations for gameplay.
+v0.50
+
+Added automatic Spike fall from elevated positions and made spawn barriers opaque to prevent abuse.
+v0.49
+
+Added curtains to prevent seeing through doors with Sage’s Barrier Orb.
+v0.47+
+
+Fixed several map exploits and improved geometry.
+Trivia
+Reference to Team Fortress 2
+
+In A Site Tower, there is a reference to Sniper from Team Fortress 2, with an empty sniper rifle case, ammo, and a jar of what is assumed to be urine.
+Breeze Poster
+
+A card/poster advertising the map Breeze can be found in A Tower.
+Basic Training Simulation
+
+A simulated version of Haven is used for the Basic Training tutorial, where flames are replaced with blue crystals.
+Haven’s layout and features promote a unique style of play with its three spike sites and destructible elements, making it a versatile and dynamic map.
+
+Lotus Map Overview
+Unique Features
+Three Spike Sites
+
+A Site, B Site, and C Site: Lotus is another three-site map, similar to Lotus, but with unique features that differentiate its gameplay and strategic possibilities.
+Rope Ascender
+
+Location: Positioned at the back of A Site.
+Function: Allows players to ascend from A Site to A Top. When descending from A Top to A Drop, the fall is silent if players land properly.
+Rotating Doorways
+
+Locations:
+A Side: Between A Main and A Tree.
+C Side: Between C Mound and B Main.
+Function: These doors rotate 180° over 10 seconds and can be activated from either side using a toggle button, providing players a window to pass through.
+Destructible Wall
+
+Location: Between A Main and A Link.
+Function: The wall has 400 HP and absorbs damage while intact. It features colored indicators (blue, yellow, red) and can be destroyed to open a passageway for the rest of the round.
+Map Layout
+A Site
+
+A Main: Features a rope ascender and a destructible wall. Changes in v8.0 added more space and boxes to this area.
+A Hut: Closed off to improve readability, with a new cubby added in the back.
+B Site
+
+B Main: Includes additional space and boxes added in v8.0.
+C Site
+
+C Mound: Contains the ultimate orb.
+C Bend: Adjusted with more space and boxes in v8.0.
+Map Updates
+v8.01
+
+Fixed a bug allowing players to stand on top of a crumbled pillar on C Site.
+v8.0
+
+Added more room and boxes to A Main, A Link, B Site, and C Site.
+Adjusted rotating door timings from 8s to 10s.
+Removed B Orb.
+Added new cubby in A Hut and more boxes in various locations.
+v7.0
+
+Cypher's Spycam was restricted from being placed on Lotus' doors.
+v6.06
+
+Updated visual effects for the destructible door between A Link and A Main for clearer visibility.
+v6.04
+
+Fixed issues with abilities being pushed by rotating doors.
+v6.02
+
+Adjusted door volume during rotation and fixed various bugs related to door interactions.
+v6.01
+
+Reduced volume for rotating doors and fixed bugs related to the doors and Spike placement.
+v6.0
+
+Initial release with core features and functionality.
+Trivia
+Development History
+
+Lotus was initially a three-site map set in a space station with a rotating lock-out mechanic, which was later scrapped for rotating doors due to frustration and gameplay concerns.
+Inspiration
+
+The rotating doors are inspired by a scene from Indiana Jones and the Last Crusade, where rotating doors are used to escape a dangerous situation.
+Mechanic Changes
+
+The original rotating doors were to be operated by a floor plate, but this was replaced with a toggle button due to engineering concerns.
+Lotus’s combination of rotating doors, destructible elements, and a unique map layout makes it a distinctive and strategically rich environment in VALORANT.
+
+Icebox Map Overview
+Unique Features
+Ziplines
+
+Location: Found at both A Site and B Site.
+Function: Allows players to quickly traverse between elevated positions, adding a vertical dimension to movement and positioning.
+Rope Ascenders
+
+Location: Present at both spike sites.
+Function: Enables players to reach elevated platforms or "nests" where the spike can be planted, adding vertical complexity to site control.
+Elevated Plant Sites
+
+Location: Both A and B Sites feature nests or platforms where players can plant the spike.
+Function: The multi-level design of these sites requires strategic planning for both offense and defense.
+Map Layout
+A Site
+
+A Main: Features a central elevated platform with ropes and ziplines for vertical movement.
+A Nest: Elevated area accessible via rope ascenders, adding a tactical layer to site control.
+B Site
+
+B Green: Contains containers and a pathway with strategic boxes and barriers added in recent updates.
+B Tube: A key area with various vertical elements, including new windows and boxes for enhanced gameplay.
+Map Updates
+v8.01
+
+Fixed a bug where players could stand on the container in B Green.
+v8.0
+
+Adjusted various elements:
+Added a storage container to block line of sight from Attacker Spawn to B Tube.
+Reworked B Green and B Tube areas for improved visibility and site access.
+Removed certain routes and adjusted snow piles near B Kitchen.
+v4.04
+
+Comprehensive rework:
+B Site: Adjusted containers and added new crates; redesigned site for better planting options.
+Mid: Modified geometry for improved gameplay.
+A Site: Adjusted cover and entryways for better engagement.
+v3.08
+
+Fixed Viper's Pit placement issues on B site crates.
+v3.06
+
+Adjusted B site crates to prevent penetration and improved minimap accuracy.
+v3.0
+
+Fixed issues with Cypher's Spycam placement and Spike planting on Sage's Barrier Orb.
+v2.02
+
+Fixed Spike planting issues with Sage’s Barrier Orb.
+v1.14
+
+Adjusted A Belt area for better line of sight and verticality.
+Modified A Nest for clearer pathing and better cover.
+v1.10
+
+Initial release of Icebox map.
+Trivia
+Arctic Setting
+
+Icebox is set in a Kingdom Corporation research facility in the Arctic, excavating an ancient warship trapped in the ice.
+Design Influence
+
+The map's design emphasizes verticality and horizontal movement with its ziplines and rope ascenders, making positioning and strategic play crucial.
+Historical Changes
+
+Icebox has undergone significant adjustments and reworks to refine gameplay, improve balance, and address bugs.
+Icebox’s complex verticality and unique features, like ziplines and elevated plant sites, offer a distinct tactical experience, requiring both precision and adaptability from players.
+
+Sunset Map Overview
+Unique Features
+Irreversible Bomb Doors
+Location: Between B Market and Mid Courtyard.
+Function: This door has 500 HP and is initially impenetrable. Players can use a switch on the Market side to open or close it. Once destroyed, the door remains permanently open for the rest of the round, adding a strategic element to controlling the area.
+Map Layout
+A Site
+
+A Alley: Features elevated boxes and narrow pathways. Players must navigate through tight spaces to control the site.
+A Lobby: Includes a phone booth and a few strategic points for cover.
+B Site
+
+B Market: Houses the bomb door that can be manipulated during gameplay. It provides access to both B Site and Mid.
+B Main: The primary approach to B Site, with various cover points and angles for defenders and attackers to use.
+Mid Courtyard
+
+Function: Acts as a central point that connects A Site, B Site, and other key areas. It includes the bomb door that can be used strategically.
+Map Updates
+v9.08 (Upcoming)
+
+Balance updates planned for B Site, including design adjustments to improve post-plant gameplay and minor quality of life fixes.
+v9.02
+
+Fixed various bugs:
+Jumping issues on A Alley and A Lobby.
+Fixes for shooting through fences and Trapwires.
+v8.03
+
+Adjusted the fence in A Elbow and fixed issues with jumping and Trapwire interactions.
+v7.06
+
+Fixed vision cone flickering issues at the start of rounds.
+v7.04
+
+Added new features and made significant adjustments.
+Trivia
+Early Development
+
+Sunset originally featured acid pools that could damage players, but this mechanic was later removed.
+Graffiti
+
+The map includes graffiti by LA-based artist ATLAS and the Montréal-based 123KLAN crew, adding to its vibrant, urban aesthetic.
+Summary
+Sunset offers a traditional layout with two sites and three lanes, enhanced by the unique feature of the irreversible bomb door. This map combines vertical elements with urban and industrial aesthetics, providing a mix of strategic depth and tactical opportunities. The frequent updates and bug fixes ensure continuous refinement and balance.
+
+Split Map Overview
+Unique Features
+Rope Ascenders
+
+Location:
+From Sewer to A Lobby
+From B Hell to B Tower
+In Vents (four sets)
+Function: Allows players to rapidly ascend to different levels, providing vertical mobility and strategic positioning.
+Elevated Towers
+
+A Site: Includes a central tower crucial for control and visibility.
+B Site: Features a tower that impacts both defense and attack strategies.
+Map Layout
+A Site
+
+A Main: Entry point with a new ledge and widened space for attackers.
+A Lobby: Features the rope ascender from Sewer and a new small platform for quieter drops.
+A Tower: The back section of the tower has been flattened, and the stairs have been repositioned for better accessibility and control.
+B Site
+
+B Main: The doorway has been widened for easier navigation, with added crates and cover for attackers.
+B Tower: Simplified jump-up box and new geometry for better visibility and cover.
+B Link: Previously known as Scuttle Shack, themed after a League of Legends creature, with improved openness for easier pushing.
+Mid
+
+Mid Bottom: Added small platform for silent drops.
+Vents: Four ascenders allow for dynamic vertical movement.
+Map Updates
+v8.08
+
+Fixed an exploit allowing players to stand on a sign at A Site.
+v8.01
+
+Corrected a bug where players could stand on a vent in B Garage.
+v6.0
+
+A Main: Added ledge and widened space.
+A Tower: Adjusted geometry for improved movement.
+Mid Bottom: Added platform for silent drops.
+B Tower: Simplified and adjusted jump-up box.
+B Rope Pocket: Smoothed out the corner for easier clearing.
+v3.08
+
+Fixed sound issues from A Lobby and adjusted visibility.
+v2.01
+
+Increased width of B Main doorway and added new cover and angles.
+Modified B Site geometry for better attacking and defending options.
+Adjusted Vent Room and other areas for improved gameplay.
+v1.09
+
+Adjusted ascender acceleration and added weapon tagging while on ascenders.
+Trivia
+League of Legends Reference: The backdrop at B Link, called Scuttle Shack, is themed after the Scuttle Crab from League of Legends.
+
+Ascenders Introduction: Split was the first map to introduce ascenders, adding a unique vertical element to gameplay.
+
+Summary
+Split is a map emphasizing verticality and mobility, featuring rope ascenders and elevated towers that influence both attack and defense strategies. The map's design focuses on creating dynamic play spaces with frequent updates and adjustments to improve gameplay and balance. The integration of vertical elements and enhanced cover options offers diverse tactical possibilities.
+
+Weapons
+Weapons Overview
+In VALORANT, weapons are a core aspect of gameplay, used to inflict damage, secure kills, and interact with various elements of the game. They are categorized into two main types: Sidearms and Primary weapons. Each weapon has unique characteristics and behaviors affecting its performance in battle.
+
+Categories of Weapons
+1. Sidearms
+
+Classic: Standard issue pistol, reliable but basic.
+Shorty: Compact shotgun with high damage at close range.
+Frenzy: Automatic sidearm with a high rate of fire.
+Ghost: Suppressed pistol with good accuracy and damage.
+Sheriff: High-damage revolver effective at medium range.
+Golden Gun: Exclusive to Spike Rush mode, deals high damage.
+Snowball Launcher: Available in Escalation and Snowball Fight modes, fires snowballs.
+2. Primary Weapons
+
+SMGs
+Stinger: Fully-automatic with a burst-fire mode, suitable for close to mid-range.
+Spectre: Compact SMG with a high fire rate, effective at close range.
+Shotguns
+Bucky: Fires pellets in a spread pattern, with an additional mid-range canister shot.
+Judge: High-damage shotgun with a rapid firing rate.
+Rifles
+Bulldog: Semi-automatic with a burst-fire mode, versatile for various engagements.
+Guardian: Semi-automatic rifle with moderate accuracy and damage.
+Phantom: Fully-automatic rifle with a silencer, balanced for close to mid-range.
+Vandal: Fully-automatic rifle with high damage and range, no silencer.
+Sniper Rifles
+Marshal: Lever-action sniper with a high damage per shot.
+Outlaw: Semi-automatic sniper rifle with a unique scope.
+Operator: High-damage sniper with a zoomable scope, effective at long range.
+Machine Guns
+Ares: Fully-automatic with increasing accuracy over sustained fire.
+Odin: Fully-automatic with high fire rate, includes a secondary mode for continuous fire.
+3. Melee
+
+Melee: Short-range weapon used for melee attacks, capable of one-hit kills from behind.
+Weapon Characteristics
+Ammo & Magazines: Weapons have limited ammo and come with additional magazines as reserves. Each weapon has a unique magazine size and reserve count.
+Damage & Accuracy: Damage varies based on range, body part hit, and weapon. Accuracy is affected by spread values, movement, and firing mode. Some weapons have no spread for the first shot when aiming down sights (ADS).
+Movement Impact: Moving while shooting increases spread and decreases accuracy. Movement speed penalties apply, with different penalties for crouching, walking, running, and being airborne.
+Recoil & Spread: Continuous fire increases spread, reducing accuracy. Some weapons like the Ares become more accurate with sustained fire.
+Purchase and Usage
+Buying: Weapons are purchased with in-game credits during the pre-round phase. Agents start with a default melee and the Classic sidearm.
+Weapon Drop: Weapons are dropped when agents die and can be picked up by teammates or enemies. If an agent is resurrected, they receive their weapon back unless another player has picked it up.
+Update History
+v6.11: Increased spread while moving on ropes and reduced error power during movement.
+v3.0: Reduced bullet tagging slow effect and decreased accuracy speed threshold.
+v1.09: Adjusted jumping inaccuracy with increased spread upon landing.
+v1.07: Updated hit impact visual effects for better feedback.
+v0.50: Adjusted accuracy thresholds and removed “walking accuracy” state transition.
+Trivia
+Weapon Sizes: The Classic is the smallest weapon, while the Odin is the largest.
+In-Game Realism: Canon lengths of weapons have been shared by the game's art lead to align with real-world counterparts.
+
+Judge
+Type: Shotgun
+Cost: 1,850 Credits
+Wall Penetration: Low
+Length: 98.22 cm
+Creator: Bulwark Armory
+
+Primary Fire
+
+Fire Mode: Automatic
+Pellet Count: 12
+Fire Rate: 3.5 rounds/sec
+Run Speed: 5.06 m/sec
+Equip Speed: 1 sec
+Reload Speed: 2.2 sec
+Magazine: 5
+Reserve: 15 (3 magazines)
+Damage
+
+0 - 10m:
+Head: 34
+Body: 17
+Leg: 14
+10 - 15m:
+Head: 20
+Body: 10
+Leg: 8
+15 - 50m:
+Head: 14
+Body: 7
+Leg: 5
+Summary
+The Judge is a versatile automatic shotgun suited for close-quarters combat. It offers rapid fire with a high rate of damage at very short ranges, making it ideal for aggressive players who can handle its high spread and recoil. Unlike other shotguns, the Judge does not have a pellet distance cap, allowing it to hit targets beyond 50 meters, though its effectiveness diminishes significantly at longer ranges. It outperforms the Bucky in terms of fire rate, but the Bucky may be preferable for its sustained damage and individual target accuracy.
+
+Stats
+
+Headshot Multiplier: x2
+Leg Shot Multiplier: x0.85
+TTK
+
+0–10 m:
+
+Head: 1 Shell (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Body: 1 Shell (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Legs: 1 Shell (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+10–15 m:
+
+Head: 1 Shell (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Body: 1 Shell (0.000 s for 100 HP), 2 Shells (0.286 s for 125 HP), 2 Shells (0.286 s for 150 HP)
+Legs: 2 Shells (0.286 s for 100 HP, 125 HP, 150 HP)
+15–50 m:
+
+Head: 1 Shell (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Body: 2 Shells (0.286 s for 100 HP, 125 HP, 150 HP)
+Legs: 2 Shells (0.286 s for 100 HP, 125 HP), 3 Shells (0.571 s for 150 HP)
+Spread Values
+
+Primary Fire:
+1st Shot Spread: 2.25° (Standing), 1.69° (Crouched)
+Max Spread: 4° (Standing), 3° (Crouched)
+Movement Penalties:
+Crouched: +0.05°
+Walking: +0.075°
+Running: +0.75°
+Airborne: +2.25°
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Trivia
+
+The Judge is known for its rapid fire and high damage output at very close range, making it a favored weapon for aggressive, close-combat scenarios. Its automatic firing mode allows players to quickly clear out small spaces and handle multiple enemies up close.
+
+Spectre
+Type: SMG
+Cost: 1,600 Credits
+Wall Penetration: Low
+Length: 98.02 cm
+Creator: Falcon Firearms
+
+Primary Fire
+
+Fire Mode: Fully Automatic
+Fire Rate: 13.33 rounds/sec
+Run Speed: 5.73 m/sec
+Equip Speed: 0.75 sec
+Reload Speed: 2.25 sec
+Magazine: 30
+Reserve: 90 (3 magazines)
+Damage
+
+0 - 15m:
+Head: 78
+Body: 26
+Leg: 22
+15 - 30m:
+Head: 66
+Body: 22
+Leg: 18
+30 - 50m:
+Head: 60
+Body: 20
+Leg: 17
+Alternate Fire
+
+Function: Aim Down Sights
+Zoom: 1.15x
+Fire Rate: 90% (12 rounds/sec)
+Move Speed: 76% (4.361 m/sec)
+Note: Slight spread and recoil reduction; Crosshair follows recoil
+Summary
+The Spectre is a versatile SMG known for its balance of damage, fire rate, and accuracy at short to mid-range. With its large magazine and silencer, it excels in close-quarters combat and can be used effectively while moving. While it has a lower damage output compared to rifles, it is a reliable choice for players who need a rapid-firing weapon with good mobility. Compared to the Stinger, the Spectre offers higher accuracy and a larger magazine, making it more effective in sustained engagements. It is also faster than the Ares, but cannot match the Ares in sustained firepower.
+
+Stats
+
+Headshot Multiplier: x3
+Leg Shot Multiplier: x0.85
+Primary Fire TTK
+
+0–15 m:
+
+Head: 2 Bullets (0.075 s for 100 HP, 0.075 s for 125 HP, 0.075 s for 150 HP)
+Body: 4 Bullets (0.225 s for 100 HP), 5 Bullets (0.300 s for 125 HP), 6 Bullets (0.375 s for 150 HP)
+Legs: 5 Bullets (0.300 s for 100 HP), 6 Bullets (0.375 s for 125 HP), 7 Bullets (0.450 s for 150 HP)
+15–30 m:
+
+Head: 2 Bullets (0.075 s for 100 HP), 2 Bullets (0.075 s for 125 HP), 3 Bullets (0.150 s for 150 HP)
+Body: 5 Bullets (0.300 s for 100 HP), 6 Bullets (0.375 s for 125 HP), 7 Bullets (0.450 s for 150 HP)
+Legs: 6 Bullets (0.375 s for 100 HP), 7 Bullets (0.450 s for 125 HP), 9 Bullets (0.600 s for 150 HP)
+30–50 m:
+
+Head: 2 Bullets (0.075 s for 100 HP), 3 Bullets (0.150 s for 125 HP), 3 Bullets (0.150 s for 150 HP)
+Body: 5 Bullets (0.300 s for 100 HP), 7 Bullets (0.450 s for 125 HP), 8 Bullets (0.525 s for 150 HP)
+Legs: 6 Bullets (0.375 s for 100 HP), 7 Bullets (0.450 s for 125 HP), 9 Bullets (0.600 s for 150 HP)
+Alternate Fire TTK
+
+0–15 m:
+
+Head: 2 Bullets (0.083 s for 100 HP), 2 Bullets (0.083 s for 125 HP), 2 Bullets (0.083 s for 150 HP)
+Body: 4 Bullets (0.250 s for 100 HP), 5 Bullets (0.333 s for 125 HP), 6 Bullets (0.417 s for 150 HP)
+Legs: 5 Bullets (0.333 s for 100 HP), 6 Bullets (0.417 s for 125 HP), 7 Bullets (0.500 s for 150 HP)
+15–30 m:
+
+Head: 2 Bullets (0.083 s for 100 HP), 2 Bullets (0.083 s for 125 HP), 3 Bullets (0.167 s for 150 HP)
+Body: 5 Bullets (0.333 s for 100 HP), 6 Bullets (0.417 s for 125 HP), 7 Bullets (0.500 s for 150 HP)
+Legs: 6 Bullets (0.417 s for 100 HP), 7 Bullets (0.500 s for 125 HP), 9 Bullets (0.667 s for 150 HP)
+30–50 m:
+
+Head: 2 Bullets (0.083 s for 100 HP), 3 Bullets (0.167 s for 125 HP), 3 Bullets (0.167 s for 150 HP)
+Body: 5 Bullets (0.333 s for 100 HP), 7 Bullets (0.500 s for 125 HP), 8 Bullets (0.583 s for 150 HP)
+Legs: 6 Bullets (0.417 s for 100 HP), 7 Bullets (0.500 s for 125 HP), 9 Bullets (0.667 s for 150 HP)
+Spread Values
+
+Primary Fire:
+
+1st Shot Spread: 0.4° (Standing), 0.34° (Crouched)
+Max Spread: 1.5° (Standing), 1.28° (Crouched)
+Movement Penalties:
+Crouched: +0.15°
+Walking: +1°
+Running: +2.5°
+Airborne: +10°
+Alternate Fire:
+
+1st Shot Spread: 0.25° (Standing), 0.21° (Crouched)
+Max Spread: 1.35° (Standing), 1.15° (Crouched)
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Trivia
+
+The Spectre is a popular choice for its cost-effectiveness and versatility. It is particularly valued in eco rounds and for players who prefer a balance between fire rate and accuracy while maintaining good mobility. Its silencer is an added advantage for stealthy gameplay.
+
+Operator
+Type: Sniper Rifle
+Cost: 4,700 Credits
+Wall Penetration: High
+Length: 172.25 cm
+Creator: Teknika Firearms
+
+Primary Fire
+
+Fire Mode: Semi
+Fire Rate: 0.6 rounds/sec
+Run Speed: 5.13 m/sec
+Equip Speed: 1.5 sec
+Reload Speed: 3.7 sec
+Magazine: 5
+Reserve: 10 (2 magazines)
+Damage
+
+0 - 50m:
+Head: 255
+Body: 150
+Leg: 120
+Alternate Fire
+
+Function: Aim Down Sights
+Zoom: Dual Zoom toggle between 2.5x and 5x
+Fire Rate: 100% (0.6 rounds/sec)
+Move Speed: 72% (3.694 m/sec)
+Note: Slight spread and recoil reduction; Crosshair follows recoil
+Summary
+The Operator is the most expensive weapon in VALORANT, known for its devastating power and high precision. It features a scope with dual zoom levels, making it ideal for long-range engagements. The Operator's primary fire is highly accurate while stationary, but it has a very slow rate of fire and requires precision with each shot. It can instantly kill any enemy with a single body shot, making it a powerful choice for players who can handle its high cost and slow rate of fire. Compared to other snipers like the Marshal and Outlaw, the Operator offers superior damage and wall penetration, but its slower fire rate and high price can be a significant drawback.
+
+Stats
+
+Headshot Multiplier: x1.7
+Leg Shot Multiplier: x0.8
+TTK
+
+0–50 m:
+Head: 1 Bullet (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Body: 1 Bullet (0.000 s for 100 HP, 0.000 s for 125 HP, 0.000 s for 150 HP)
+Legs: 1 Bullet (0.000 s for 100 HP), 2 Bullets (1.667 s for 125 HP, 1.667 s for 150 HP)
+Spread Values
+
+Primary Fire:
+1st Shot Spread: 5° (Standing), 4.5° (Crouched)
+Max Spread: 5° (Standing), 4.5° (Crouched)
+Movement Penalties:
+Crouched: +7.5°
+Walking: +10°
+Running: +15°
+Airborne: +15°
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Trivia
+
+The Operator is favored for its high damage and precision, making it a preferred choice for players who can capitalize on its accuracy and high lethality. Its high cost and slow rate of fire require careful play and positioning, often making it a weapon for players who excel in long-range engagements and can handle its drawbacks effectively.
+
+Odin
+Type: Machine Gun
+Cost: 3,200 Credits
+Wall Penetration: High
+Feature(s):
+
+Rate of fire increases over time
+Starts firing at maximum rate in Alternate Fire
+Length: 174.04 cm
+Creator: Falcon Firearms
+Primary Fire
+
+Fire Mode: Auto
+Fire Rate: 12-15.6 rounds/sec
+Run Speed: 5.13 m/sec
+Equip Speed: 1.25 sec
+Reload Speed: 5 sec
+Magazine: 100
+Reserve: 200 (2 magazines)
+Damage
+
+0 - 30m:
+Head: 95
+Body: 38
+Leg: 32
+30 - 50m:
+Head: 77
+Body: 31
+Leg: 26
+Alternate Fire
+
+Function: Aim Down Sights
+Zoom: 1.15x
+Fire Rate: 130% (15.6 rounds/sec)
+Move Speed: 76% (3.899 m/sec)
+Note: Slight spread and recoil reduction; Crosshair follows recoil; Starts firing at maximum fire rate
+Summary
+The Odin is a high-cost machine gun renowned for its ability to deliver sustained suppressive fire. Its fire rate increases the longer it is fired, reaching a maximum rate with continued use. The Odin excels in defensive positions and is effective for wallbang kills due to its high penetration, large magazine, and damage output. However, its lower mobility and longer equip speed make it less suitable for fast-paced engagements compared to rifles like the Phantom or Vandal.
+
+Stats
+
+Headshot Multiplier: x2.5
+Leg Shot Multiplier: x0.85
+30+ m Falloff Multiplier: x0.816 (31/38)
+Primary Fire TTK (Min. Fire Rate)
+
+0–30 m:
+
+Head: 2 Bullets (0.083 s for 100 HP, 0.083 s for 125 HP, 0.083 s for 150 HP)
+Body: 3 Bullets (0.167 s for 100 HP, 0.250 s for 125 HP, 0.250 s for 150 HP)
+Legs: 4 Bullets (0.250 s for 100 HP, 0.250 s for 125 HP, 0.333 s for 150 HP)
+30–50 m:
+
+Head: 2 Bullets (0.083 s for 100 HP, 0.083 s for 125 HP, 0.083 s for 150 HP)
+Body: 4 Bullets (0.250 s for 100 HP, 0.333 s for 125 HP, 0.333 s for 150 HP)
+Legs: 4 Bullets (0.250 s for 100 HP, 0.333 s for 125 HP, 0.417 s for 150 HP)
+Alternate Fire TTK (Max. Fire Rate)
+
+0–30 m:
+
+Head: 2 Bullets (0.064 s for 100 HP, 0.064 s for 125 HP, 0.064 s for 150 HP)
+Body: 3 Bullets (0.128 s for 100 HP, 0.192 s for 125 HP, 0.192 s for 150 HP)
+Legs: 4 Bullets (0.192 s for 100 HP, 0.192 s for 125 HP, 0.256 s for 150 HP)
+30–50 m:
+
+Head: 2 Bullets (0.064 s for 100 HP, 0.064 s for 125 HP, 0.064 s for 150 HP)
+Body: 4 Bullets (0.192 s for 100 HP, 0.256 s for 125 HP, 0.256 s for 150 HP)
+Legs: 4 Bullets (0.192 s for 100 HP, 0.256 s for 125 HP, 0.321 s for 150 HP)
+Spread Values
+
+Primary Fire:
+
+1st Shot Spread: 0.8° (Standing), 0.48° (Crouched)
+Max Spread: 1.3° (Standing), 0.78° (Crouched)
+Movement Penalties:
+Crouched: +0.4°
+Walking: +2°
+Running: +6°
+Airborne: +10°
+Alternate Fire:
+
+1st Shot Spread: 0.79° (Standing), 0.47° (Crouched)
+Max Spread: 1.36° (Standing), 0.82° (Crouched)
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Trivia
+
+The Odin is favored for its high damage output and massive magazine size, making it ideal for holding positions and dealing with multiple enemies, but its high cost and slow equip speed can be a drawback in more dynamic situations.
+
+Phantom
+Type: Rifle
+Cost: 2,900 Credits
+Wall Penetration: Medium
+Feature(s):
+
+Silenced
+Tracers not visible to enemies
+Firing sound not audible at 40m+ except in the direction of fire
+Length: 121.11 cm (90.59 cm without silencer)
+Creator: Bulwark Armory
+Primary Fire
+
+Fire Mode: Auto
+Fire Rate: 11 rounds/sec (660 RPM)
+Run Speed: 5.4 m/sec
+Equip Speed: 1 sec
+Reload Speed: 2.5 sec
+Magazine: 30
+Reserve: 60 (2 magazines)
+Damage
+
+0 - 15m:
+Head: 156
+Body: 39
+Leg: 33
+15 - 30m:
+Head: 140
+Body: 35
+Leg: 29
+30 - 50m:
+Head: 124
+Body: 31
+Leg: 26
+Alternate Fire
+
+Function: Aim Down Sights
+Zoom: 1.25x
+Fire Rate: 90% (9.9 rounds/sec, 594 RPM)
+Move Speed: 76% (4.104 m/sec)
+Note: Slight spread and recoil reduction; Crosshair follows recoil
+Summary
+The Phantom is a versatile automatic rifle with high fire rate, making it highly effective in close to medium-range combat. It features a silencer, allowing for stealthy engagements, and its high rate of fire is ideal for spraying down multiple enemies. The damage falloff at longer ranges makes it less effective than the Vandal for long-distance duels, but it excels in more confined encounters.
+
+Stats
+
+Headshot Multiplier: x4
+Leg Shot Multiplier: x0.85
+15–30 m Falloff Multiplier: x0.897 (35/39)
+30+ m Falloff Multiplier: x0.795 (31/39)
+Primary Fire TTK
+
+0–15 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.182 s for 100 HP, 0.273 s for 125 HP, 0.273 s for 150 HP)
+Legs: 4 Bullets (0.273 s for 100 HP, 0.273 s for 125 HP, 0.364 s for 150 HP)
+15–30 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.182 s for 100 HP, 0.273 s for 125 HP, 0.364 s for 150 HP)
+Legs: 4 Bullets (0.273 s for 100 HP, 0.364 s for 125 HP, 0.455 s for 150 HP)
+30–50 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 4 Bullets (0.273 s for 100 HP, 0.364 s for 125 HP, 0.364 s for 150 HP)
+Legs: 4 Bullets (0.273 s for 100 HP, 0.364 s for 125 HP, 0.455 s for 150 HP)
+Alternate Fire TTK
+
+0–15 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.202 s for 100 HP, 0.303 s for 125 HP, 0.303 s for 150 HP)
+Legs: 4 Bullets (0.303 s for 100 HP, 0.303 s for 125 HP, 0.404 s for 150 HP)
+15–30 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.202 s for 100 HP, 0.303 s for 125 HP, 0.404 s for 150 HP)
+Legs: 4 Bullets (0.303 s for 100 HP, 0.404 s for 125 HP, 0.505 s for 150 HP)
+30–50 m:
+
+Head: 1 Bullet (0.000 s)
+Body: 4 Bullets (0.303 s for 100 HP, 0.404 s for 125 HP, 0.404 s for 150 HP)
+Legs: 4 Bullets (0.303 s for 100 HP, 0.404 s for 125 HP, 0.505 s for 150 HP)
+Spread Values
+
+Primary Fire:
+
+1st Shot Spread: 0.25° (Standing), 0.21° (Crouched)
+Max Spread: 1° (Standing), 0.85° (Crouched)
+Movement Penalties:
+Crouched: +0.8°
+Walking: +2°
+Running: +5°
+Airborne: +10°
+Alternate Fire:
+
+1st Shot Spread: 0.157° (Standing), 0.13° (Crouched)
+Max Spread: 1.02° (Standing), 0.87° (Crouched)
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Gallery
+
+Images and Artworks: Showcase of different skins and appearances for the Phantom.
+Trivia
+
+The Phantom is favored for its stealth capabilities and high rate of fire, making it a popular choice in close to mid-range engagements.
+
+Vandal
+Type: Rifle
+Cost: 2,900 Credits
+Wall Penetration: Medium
+Length: 127.99 cm
+Creator: Teknika Firearms
+
+Primary Fire
+
+Fire Mode: Auto
+Fire Rate: 9.75 rds/sec (585 rds/min)
+Run Speed: 5.4 m/sec
+Equip Speed: 1 sec
+Reload Speed: 2.5 sec
+Magazine: 25
+Reserve: 50 (2 magazines)
+Damage
+
+0 - 50m:
+Head: 160
+Body: 40
+Leg: 34
+Alternate Fire
+
+Function: Aim Down Sights
+Zoom: 1.25x
+Fire Rate: 90% (8.775 rds/sec)
+Move Speed: 76% (4.104 m/sec)
+Note: Slight spread and recoil reduction; Crosshair follows recoil
+Summary
+The Vandal is a high-cost automatic rifle, renowned for its accuracy and high damage. It's effective at long ranges with no damage falloff, guaranteeing a headshot kill at any distance. Unlike the Phantom, which has damage falloff but a higher fire rate, the Vandal excels in single-shot kills and requires precise aim. It's a versatile weapon for picking off enemies at various ranges.
+
+Stats
+
+Headshot Multiplier: x4
+Leg Shot Multiplier: x0.85
+Primary Fire TTK
+
+0–50 m:
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.205 s for 100 HP, 0.308 s for 125 HP, 0.308 s for 150 HP)
+Legs: 3 Bullets (0.205 s for 100 HP, 0.308 s for 125 HP, 0.410 s for 150 HP)
+Alternate Fire TTK
+
+0–50 m:
+Head: 1 Bullet (0.000 s)
+Body: 3 Bullets (0.228 s for 100 HP, 0.342 s for 125 HP, 0.342 s for 150 HP)
+Legs: 3 Bullets (0.228 s for 100 HP, 0.342 s for 125 HP, 0.456 s for 150 HP)
+Spread Values
+
+Primary Fire:
+
+1st Shot Spread: 0.25° (Standing), 0.21° (Crouched)
+Max Spread: 1° (Standing), 0.85° (Crouched)
+Movement Penalties:
+Crouched: +0.8°
+Walking: +2°
+Running: +5°
+Airborne: +10°
+Alternate Fire:
+
+1st Shot Spread: 0.157° (Standing), 0.13° (Crouched)
+Max Spread: 1.02° (Standing), 0.87° (Crouched)
+Update History
+
+Added: No specific changes listed.
+Skins
+
+Store: Various skins available in the store.
+Battle Pass: Includes themed skins for seasonal Battle Passes.
+Trivia
+
+The Vandal is known for its high impact at long ranges and is a staple in many players' arsenals for its reliability in securing headshots.
+
+Which weapon should I buy in eco rounds?
+In eco rounds, it's often best to go for cheaper weapons like the Spectre or Sheriff. The chatbot can provide tailored recommendations based on your playstyle and the current state of the game.
+
+How do I control recoil patterns?
+Recoil control is key to accuracy in Valorant. The chatbot offers tips on practicing recoil patterns and suggests exercises to improve your aim.
+
+Abilities
+Which agents have smoke abilities?
+Smoke abilities are vital for blocking enemy vision. Agents like Brimstone, Omen, and Astra have powerful smoke abilities that can turn the tide of a match. The chatbot can show you how to use these abilities effectively.
+
+How do I counter certain abilities?
+The chatbot provides strategies for countering specific abilities, whether it's dodging flashes or avoiding damage from mollies.
+
+Agents
+Which agent should I play as a beginner?
+For beginners, agents with straightforward abilities like Sage or Brimstone are recommended. The chatbot can help you choose an agent that fits your playstyle.
+
+How do I unlock new agents?
+Agents can be unlocked by completing their contracts or through the Battle Pass. The chatbot can guide you through the fastest way to unlock your desired agent.
+Starting Agents
+When new players begin their journey in Valorant, they have immediate access to five agents:
+
+Brimstone (Controller): A tactical commander from the United States, Brimstone excels in controlling the battlefield with his arsenal of smokes and orbital strikes.
+Jett (Duelist): A nimble and elusive agent from South Korea, Jett uses her agility and wind-based abilities to outmaneuver opponents.
+Phoenix (Duelist): A fiery duelist from the United Kingdom, Phoenix thrives in aggressive engagements, using his flame-based abilities to heal himself and damage enemies.
+Sage (Sentinel): Hailing from China, Sage is a vital support agent who can heal and resurrect teammates, providing essential survivability to her team.
+Sova (Initiator): A Russian hunter, Sova excels in gathering intelligence with his recon abilities, allowing his team to plan their attacks with precision.
+Unlocking Agents
+Valorant offers players multiple ways to unlock additional agents, either permanently or temporarily:
+
+Permanent Unlocks:
+
+Agent Store: Players can purchase agents for 1,000 Valorant Points or 8,000 Kingdom Credits.
+Agent Recruitment Event: New agents are introduced through a four-week event where players can unlock the agent for free by accumulating 200,000 XP during the event.
+Note: Kingdom Credits cannot be used during the Recruitment Event.
+Welcome Contract: Players can unlock one agent each at Tiers 5 and 10 by progressing through this contract.
+Temporary Unlocks:
+
+Xbox Game Pass: All agents are temporarily unlocked for players who link their Valorant account with an active Xbox Game Pass subscription. Once the subscription ends, players must unlock the agents through permanent methods.
+The Range: All agents are available in The Range, allowing players to test them out before deciding on a permanent unlock.
+Agent Roles and Abilities
+Each agent in Valorant is categorized into one of four roles, based on their abilities and intended playstyle:
+
+Controllers: These agents specialize in controlling sightlines and breaking up enemy formations.
+
+Example: Omen (Unknown origin) uses shadow-based abilities to obscure vision and teleport across the map.
+Duelists: Self-sufficient fraggers who initiate fights and are expected to secure kills for their team.
+
+Example: Reyna (Mexico) can heal or become invulnerable after securing a kill, making her a fearsome solo operator.
+Initiators: These agents challenge angles and help their team push through defended areas.
+
+Example: Skye (Australia) uses her animal-themed abilities to scout, heal, and disorient enemies.
+Sentinels: Defensive experts who excel at holding sites and watching flanks.
+
+Example: Cypher (Morocco) is a master of surveillance, using traps and cameras to monitor enemy movements.
+All agents have a base health of 100 HP, which can be increased by up to 50 HP with shields. Additionally, each agent has four abilities, including a Signature ability that recharges over time or based on certain actions, and an Ultimate ability that requires points to activate and can turn the tide of a round.
+
+Brimstone Overview
+Name: Liam "Brimstone" Byrne
+Role: Controller
+Origin: United States
+Release Patch: Beta
+Voice Actor: Steve Blum
+
+Background:
+Liam Byrne, known by his call sign "Brimstone," is the commander of the VALORANT Protocol, a secretive organization dedicated to protecting Earth from disasters and threats involving radianite. A former firefighter and soldier from Baltimore, Brimstone has a deep sense of loyalty to his comrades and the organizations he's served. This loyalty is rooted in a tragic past where he lost a close friend, Tariq Porter, which deeply affected him and led to his involvement with Kingdom Corporation's K-SEC branch.
+
+After the events of First Light, Brimstone left K-SEC and, alongside Sabine Callas, Klara Böhringer, and Omen, founded the VALORANT Protocol. Under his leadership, the organization grew and recruited agents from around the world to prevent agents from the alternate-dimension Omega Earth from stealing radianite from Alpha Earth.
+
+Despite no longer being part of Kingdom, Brimstone's loyalty to their vision remained, leading to internal conflicts when the Protocol had to shut down a dangerous project by Kingdom. Brimstone now faces the challenge of protecting Alpha from Omega's agents while reconciling his feelings about Kingdom's role in global safety.
+
+Personality:
+Brimstone is the oldest and most experienced member of the VALORANT Protocol, often encouraging and mentoring his teammates. He refers to the younger agents as "kids" and is known for his stubbornness, resisting any notion of retirement. His leadership is grounded in experience, and he continues to be an active participant in field operations despite his senior role.
+
+Appearance:
+Brimstone is a tall, imposing figure, often seen in a blue shirt with a chest plate. He wears an orange beret adorned with a gold insignia depicting two inverted chevrons, likely indicating his military rank. Brimstone has a gray mustache and a thick beard, with gloves on both hands and a bracer on his left wrist. He also has a distinctive tattoo on his right upper arm, resembling the pattern of the Peacekeeper Sheriff.
+
+Abilities:
+
+Basic Abilities:
+
+Stim Beacon: Instantly tosses a stim beacon that creates a field, granting a Combat Stim and Speed Boost to players within.
+Uses: 1
+Cost: 200 credits
+Duration: 12 seconds
+Buffs: +10% Equip speed, +15% Fire rate, +10% Reload speed, +10% Recovery speed, +15% Speed boost
+Incendiary: Equips an incendiary grenade launcher that fires a grenade, creating a fire zone that damages players.
+Uses: 1
+Cost: 250 credits
+Duration: 7 seconds (at full size)
+Damage: 60 damage per second
+Signature Ability:
+
+Sky Smoke: Equips a tactical map to set smoke cloud locations, blocking vision in the selected area.
+Uses: 3
+Cost: 100 credits
+Duration: 19.25 seconds
+Ultimate Ability:
+
+Orbital Strike: Equips a tactical map to launch a lingering orbital strike laser at a selected location, dealing high damage-over-time.
+Ultimate Points Required: 8
+Windup: 2 seconds
+Duration: 3 seconds (at full size)
+Damage: 20 per tick, 6.67 ticks per second
+Brimstone's tactical abilities make him an essential Controller, providing smoke coverage and area denial, which allows his team to execute strategies effectively on both offense and defense.
+
+Viper Overview
+Name: Sabine "Viper" Callas
+Role: Controller
+Origin: United States
+Release Patch: Beta
+Voice Actor: Ashly Burch
+Biography
+Sabine Callas, also known as Viper, is an American chemist who played a crucial role in the rediscovery of radianite. Working at Kingdom Corporation, she became one of the first scientists to study radianite. However, her work caught the attention of the Scions of Hourglass, a secretive group that wanted to keep radianite hidden. They sent an assassin, known as "Ghost," to kill her. During the assassination attempt, Viper defended herself and trapped Ghost in a test chamber, transforming him into a phantom with no memory of his past.
+
+Viper later joined the VALORANT Protocol, becoming its second-in-command under Brimstone (Liam Byrne). Ghost, now known as Omen, also joined the Protocol. However, Omen eventually discovered his past, leading to tension between him and Viper. As VALORANT investigates the Scions of Hourglass, Viper sees a chance to exact her revenge.
+
+Personality
+Viper is a confident and ruthless agent, embracing the role of a villain if it ensures the success of her mission. She is feared by her enemies and often described as "toxic." Despite her cold exterior, she shows care towards her teammates, though she does not hesitate to reprimand them for mistakes. Viper harbors a deep anger and is driven by a desire for revenge.
+
+Appearance
+Viper has jet black hair, venom green eyes, and wears a black mask that turns into a gas mask when she uses her ultimate ability. She dons a green skin-tight bodysuit with black shoulder plates and customized gloves that release toxic gases. She carries a toxin container on her back and wears black thigh-high boots.
+
+Abilities
+Passive: Fuel
+
+Replenishes the toxin that powers her abilities.
+Max Duration: 12 seconds.
+Cooldown: 30 seconds.
+Passive: Toxin
+
+Enemies in her Poison Cloud, Toxic Screen, or Viper's Pit are inflicted with Decay.
+Basic: Snake Bite (C)
+
+Launches a canister that creates a chemical zone, damaging and applying Vulnerable.
+Duration: 6.5 seconds.
+Damage: 12.5/s.
+Basic: Poison Cloud (Q)
+
+Deploys a gas emitter that creates a toxic gas cloud at the cost of fuel.
+Duration: 2 seconds minimum.
+Cooldown: 5 seconds.
+Signature: Toxic Screen (E)
+
+Deploys a long line of gas emitters to create a tall wall of toxic gas.
+Duration: 2 seconds minimum.
+Cooldown: 5 seconds.
+Ultimate: Viper's Pit (X)
+
+Creates a large chemical cloud that Nearsights and Decays enemies inside.
+Windup: 6 seconds.
+Duration: Indefinite while inside.
+Cosmetics
+Viper's cosmetics include various sprays, player cards, and weapon skins that reflect her venomous and deadly persona.
+
+Notable Player Cards: Home Again // Viper, Unstoppable // Viper, VALORANT GO! Vol. 2 Viper.
+Weapon Skins: 9 Lives Classic Viper, VALORANT GO! Vol. 2 Classic.
+Buddies: VALORANT GO! Vol. 2 Viper Buddy.
+Quotes
+"They call me a monster. Shall I prove them right?"
+Update History
+Viper's abilities have undergone several updates and adjustments, balancing her fuel consumption, ability cooldowns, and the effects of her toxins. Notably, her Snake Bite ability now damages map objects, and her Poison Cloud has seen cooldown adjustments for better gameplay balance.
+
+Omen Overview
+Name: Omen
+Role: Controller
+Origin: Unknown
+Omen is one of the most enigmatic and compelling characters in VALORANT. As a phantom-like agent, Omen's origins are shrouded in mystery, which has fueled much of his narrative and character development. His journey from being a skilled assassin known as "Ghost" to his current state as a shadowy figure within the VALORANT Protocol is a tale of transformation, loss, and a relentless search for identity.
+
+Backstory
+Omen, once known as "Ghost," was a highly skilled assassin working for the Scions of Hourglass, an organization dedicated to preventing the rediscovery of the substance radianite. During his time with the Scions, he was sent on a mission to assassinate Dr. Sabine Callas (now known as Viper) to stop her from uncovering radianite. However, the mission went awry when Dr. Callas defended herself, leading to an accident that drastically altered Omen's form and erased his memories. He was left in a state of confusion and torment, with only vague recollections of his past life.
+
+Years later, as a member of the VALORANT Protocol, Omen's quest for answers took a significant turn when he encountered the hourglass symbol of the Scions. This symbol triggered memories of his past, and with the help of the young assassin Li Zhao Yu (Iso), he began to piece together the fragments of his identity. This culminated in a mission to Jakarta, where Omen confronted his former boss and learned the truth about his past. However, instead of bringing peace, these revelations only deepened his internal conflict.
+
+Personality
+Omen's personality is heavily influenced by his traumatic transformation and the loss of his former self. He is a cynical and tormented figure, using his powers to instill fear and paranoia in his enemies. Despite his dark nature, Omen shows a softer side to those he trusts, such as Viper, whom he refers to by her real name, Sabine. He is also known to knit as a way to focus, a small but telling detail that adds depth to his character.
+
+Appearance
+Omen's appearance reflects his ethereal and haunting nature. He wears gray armor, black pants, and a purple hooded cape. His arms are wrapped in bandages, and his face is obscured by his hood, with only three bright blue slits visible where his eyes should be. This spectral form is further emphasized when he uses his ultimate ability, which transforms him into a dark shade.
+
+Abilities
+Omen's abilities revolve around shadows, teleportation, and manipulating the battlefield to his advantage. His abilities include:
+
+Shrouded Step: A teleportation ability that allows Omen to move quickly across short distances.
+Paranoia: A blinding orb that nearsights and deafens all players it touches, passing through walls to reach its target.
+Dark Cover: A smoke orb that blocks vision, allowing Omen to control sightlines and obscure his movements.
+From the Shadows (Ultimate): A tactical map ability that lets Omen teleport to any location on the map. While teleporting, he appears as a shade that can be destroyed to cancel the teleport.
+Recent Developments
+After uncovering the truth about his past, Omen's struggle with his identity has only intensified. He has temporarily stepped away from the VALORANT Protocol to recover and find his own path forward. Despite his inner turmoil, Omen remains a loyal member of the Protocol, considering its agents as his new family. He is determined to return to them once he has come to terms with his past and present.
+
+Omen's journey is far from over, and his story continues to evolve as he grapples with the reality of who he was and who he has become.
+
+Reyna Overview
+
+Name: Reyna (Zyanya Mondragón)
+
+Role: Duelist
+
+Origin: Mexico
+
+Release Patch: 1.0
+
+Voice Actor: Karina Altamirano
+
+Biography
+Zyanya Mondragón, known by her codename "Reyna", is a formidable Radiant from Mexico. Gifted with the unique ability to absorb life energy from the souls of her slain adversaries, she channels this power to enhance her combat prowess. A catastrophic event involving machinery, presumably tied to the Kingdom Corporation, deeply scarred her, fostering a profound aversion to technology and a cynicism towards humanity. Believing that Radiants represent the true future of Alpha Earth, Reyna established a sanctuary to shield those seeking refuge from Kingdom's influence, positioning herself as their protector and avenger.
+
+Central to Reyna's existence is her younger sister, Lucia, whose life hangs by a thread. To sustain Lucia, Reyna transfers the life energy she collects from her enemies. Despite the assistance of VALORANT Protocol scientists, this process remains inefficient, making every battle and every kill vital in extending Lucia's life. Reyna's relentless aggression and bitterness have sparked concern among her fellow agents, who fear the lengths she might go to if Lucia's fate worsens.
+
+Personality
+“Are those our enemies? This won't take long.” — Reyna (Match Start)
+
+Reyna embodies ruthlessness and determination, seizing what she desires without hesitation. Her demeanor is savage, bordering on animalistic, as she revels in eliminating her foes and feeding off their despair. A deep-seated disdain for technology propels her to assert dominance, especially over fellow Radiants, championing their supremacy. Despite her hardened exterior and world-weariness, Reyna acknowledges Alpha Earth as her home, vowing to defend it—even if it demands more bloodshed.
+
+Appearance
+Reyna is instantly recognizable by her long hair, with its ends dyed a vivid purple, and her piercing purple eyes that exude an intimidating aura. She dons a sleek, purple skin-tight suit with an asymmetrical design: one sleeve covers her left arm, while her right arm remains exposed, showcasing intricate tattoos that illuminate when she taps into her Radiant abilities. Complementing her attire are purple boots with protective plating, leaving her right thigh bare. A distinct, luminous purple glow emanates from her chest, marking her heart's location. Upon activating her ultimate ability, "Empress," Reyna's entire visage transforms into a deep shade of dark purple, with her eyes, hands, and heart radiating an intense amethyst glow.
+
+Abilities
+Passive
+Soul Harvest
+
+Description: Enemies that Reyna kills, or those who die within 3 seconds after taking damage from her, leave behind Soul Orbs that last for 3 seconds.
+
+Duration: 3 seconds
+
+Basic
+Leer
+
+Description: Equip an ethereal, destructible eye. Activate to cast the eye a short distance forward. The eye Nearsights all enemies who look at it.
+
+Uses: 2
+
+Cost: 250 credits
+
+Windup: 0.4 seconds
+
+Duration: 1.6 seconds
+
+Health: 100 HP
+
+Signature
+Devour
+
+Description: Instantly consume a nearby Soul Orb, rapidly healing Reyna. If Empress is active, this ability casts automatically and doesn't consume the Soul Orb.
+
+Uses: 2
+
+Cost: 200 credits (shared with Dismiss)
+
+Duration: 2 seconds
+
+Healing: 50 HP
+
+Buff: Permanent Overheal
+
+Dismiss
+
+Description: Instantly consume a nearby Soul Orb, becoming intangible for a short duration. If Empress is active, Reyna also becomes invisible.
+
+Uses: 2
+
+Cost: 200 credits (shared with Devour)
+
+Duration: 1.5 seconds
+
+Ultimate
+Empress
+
+Description: Instantly enter a frenzy, gaining a Combat Stim that dramatically increases firing, equip, and reload speed. Gain infinite charges of Soul Harvest abilities.
+
+Ultimate Points: 6
+
+Buffs:
+
++25% Equip speed
++15% Fire rate
++25% Reload speed
++25% Recovery speed
+Agent Cosmetics
+Gear
+Chapter 1
+
+Tier 1: Leer Spray
+Tier 2: VALORANT Reyna Card
+Tier 3: Player Title - Empress
+Tier 4: Marked for Death Spray
+Tier 5: Kingdom Credits: 2,000
+Chapter 2
+
+Tier 6: Soul Capsule Buddy
+Tier 7: Reyna Spray
+Tier 8: Player Title - Savage
+Tier 9: Revenge for Life Card
+Tier 10: Vendetta Ghost (Weapon Skin)
+Other Cosmetics
+Player Cards
+9 Lives
+Ankle-Breaker
+Boot Camp // So Much More
+Doodle Buds // Agents
+EP 1 // IGNITION
+EP 5 // DIMENSION
+Fortune's Hand // The Empress
+Home Again // Reyna
+Nunca Olvidados
+Radiant Reaction
+Radiant Skincare
+Rank Up! Masters Tokyo 2023
+Reyna ID
+Rooftop Revelry
+Team Ace // Reyna
+Unstoppable // Reyna
+VALORANT GO! Vol. 1 Reyna
+VERSUS // Reyna + Viper
+Sprays
+9 Lives
+Already Locked
+Backseat Coaching
+Capsule Collector
+Ego Boost
+Huh?
+Power of Five
+Team Ace // Reyna
+The Big Bet
+The Great Responsibility
+VALORANT GO! Vol. 1 Reyna
+With Love, Reyna
+Weapon Skins
+9 Lives Series
+Classic (Reyna variant)
+Guardian (Reyna variant)
+Phantom (Reyna variant)
+Ares (Reyna variant)
+Doodle Buds Series
+Shorty
+Stinger
+Marshal
+Ares
+Team Ace Vandal
+VALORANT GO! Vol. 1 Phantom
+Buddies
+VALORANT GO! Vol. 1 Reyna Buddy
+Quotes
+For an extensive collection of Reyna's voice lines, please refer to the Reyna/Quotes page.
+
+Update History
+Patch 8.11
+
+Devour
+Healing decreased: 100 → 50
+Full heal time reduced: 3s → 2s
+Overheal of armor: No longer decays after a timer.
+Dismiss
+Top speed increased: 9.1 m/s → 12 m/s
+Total duration reduced: 2s → 1.5s
+Empress
+Adjustment: Empress no longer has a timer and remains active until Reyna is killed or the round ends.
+Patch 8.03
+
+Leer
+Bugfix: Resolved an issue where agents appeared nearsighted in third-person briefly if they destroyed Leer immediately after it became shootable.
+Trivia
+Name Meaning: "Reyna" translates to "queen" in Spanish.
+
+Unique Voice Lines: Reyna possesses a distinct set of voice lines during her ultimate, "Empress," featuring a unique auditory filter.
+
+Ace Quote: She is the sole agent with an additional quote when achieving an ace while her ultimate is active.
+
+Voice Acting: Karina Altamirano, Reyna's voice actor, also provides her voice in the Latin American Spanish dub.
+
+Signature Ability: Reyna is the only Duelist whose signature ability does not replenish a charge after securing two kills.
+
+Relations
+Lucia: Reyna's younger sister, Lucia, is her primary motivation. Lucia's fragile health necessitates Reyna's continuous collection of life energy to sustain her.
+
+Viper: Reyna collaborates closely with Viper in her endeavors to save Lucia.
+
+Brimstone: She harbors a strong aversion to Brimstone's leadership, perceiving it as hypocritical.
+
+Killjoy: A traumatic incident involving Killjoy's machines has instilled deep resentment in Reyna towards her, fueling a pronounced animosity.
+
+Gekko: Despite her general disdain for many, Reyna shares a close bond with Gekko.
+
+Development
+Age: In an interview, Karina Altamirano indicated that Reyna is in her twenties.
+
+Announcement: Reyna was unveiled on May 30, 2020, just three days before VALORANT's official launch.
+
+Name Speculation: In early versions of the game, Sage referred to Reyna as "Delilah" in a voice line, leading to initial speculation about her name. This line was later removed, solidifying her canonical name as Zyanya.
+
+Lore Evolution: Initially, it was stated that Reyna's younger sister had been killed by an unknown assailant. Current lore, however, depicts Lucia as alive but in a precarious state.
+
+Raze Overview
+Real Name: Tayane Alves
+Code Name: Raze
+Origin: Salvador, Bahia, Brazil
+Role: Duelist
+Affiliation: VALORANT Protocol
+Agent Number: 12
+
+Background:
+Tayane "Raze" Alves hails from Salvador, Bahia, Brazil, where she developed a deep passion for explosives and paint—often combining the two in her creative destruction. She has a fierce opposition to Kingdom Corporation, successfully driving them out of Bahia and leaving her explosive mark on their abandoned sites. Recruited by the VALORANT Protocol as its twelfth agent, Raze now channels her chaotic energy against greater threats to Alpha Earth. Despite her new role, she remains vigilant about her home, ensuring Kingdom Corporation doesn't return to Bahia.
+
+Personality:
+Raze is a vibrant, high-energy agent known for her playful, impulsive nature. She thrives in chaos and enjoys causing havoc on the battlefield, often destroying obstacles with her explosive arsenal. Despite her carefree demeanor, Raze cares deeply for her fellow agents, considering them family. However, her tendency to act on impulse makes her impatient, and she often disregards detailed plans, preferring to rely on her gut instinct. Her cheeky behavior is infamous among the Protocol, especially when it comes to frustrating her teammate Cypher by breaking his gadgets.
+
+Appearance:
+Raze has a distinctive look, with a brown skin tone and an ever-present orange cap worn backward, complemented by headphones. Her hair is styled in multiple braids, held together by gold-colored hair rollers. She wears a sleeveless orange top that exposes her midriff, protected by a chestplate with "BOOM" spray-painted on it. Her dark-colored pants feature paint splatters on the left thigh, where her paintshell grenades are attached.
+
+Abilities:
+Boom Bot (C): Deploys a bot that travels in a straight line, bouncing off walls and locking onto enemies within its frontal cone. If it reaches an enemy, it explodes for significant damage.
+Blast Pack (Q): Throws a sticky explosive that can be detonated remotely, dealing damage and moving objects and enemies within its blast radius.
+Paint Shells (E): Throws a cluster grenade that explodes, creating smaller sub-munitions that also deal damage within their range. The ability resets after two kills.
+Showstopper (X - Ultimate): Equips a rocket launcher that fires a high-damage rocket, causing massive area damage on impact.
+Trivia:
+Raze created her Boom Bot by modifying one of Killjoy's Alarmbots.
+She upgraded Breach's mechanical arms and collaborated with Killjoy to develop the Max Bot training robot.
+Raze has a close, almost sibling-like relationship with Breach and a friendly rivalry with Killjoy, which eventually developed into a romantic relationship.
+Before joining the VALORANT Protocol, she and Breach worked together outside the law.
+Relationships:
+Breach: Former partner in crime and now a close ally, Raze often refers to him affectionately as "Breachy."
+Killjoy: Raze shares a friendly rivalry with Killjoy, with their relationship evolving into a romantic one.
+Raze embodies the spirit of explosive fun, bringing a mix of creativity and destruction to every match, ensuring that her enemies always know when she's in the game.
+
+Killjoy Overview
+Name: Klara Böhringer ("Killjoy")
+Origin: Germany
+Role: Sentinel
+Affiliation: VALORANT Protocol
+Aliases: Killjoy
+
+Biography:
+Klara Böhringer, better known by her call sign "Killjoy," is a German inventor of immense talent and a former lead of Kingdom’s R&D department. Born to a parent with Germanic ancestry, Klara exhibited an exceptional aptitude for technology from an early age. By 18, she was already leading Kingdom's research and development, earning widespread recognition and multiple breakthroughs.
+
+Her innovative prowess earned her a nomination for the Distinguished Inventor award. She became the fourth agent to join the VALORANT Protocol, quickly establishing herself as an indispensable member of the team. Her nickname, "Killjoy," originated from her teammates, who marveled at how her genius reduced the workload for everyone else. Embracing the name, she now continues her groundbreaking work within the VALORANT Protocol under the mentorship of its commander, Brimstone.
+
+Killjoy's expertise is unrivaled, creating everything from spike defusers under extreme pressure to teleporters that bridge worlds. Whatever the Protocol needs, Killjoy can invent it with the right tools.
+
+Personality:
+Killjoy is the embodiment of German efficiency and technological brilliance. She is enthusiastic about utilizing her inventions to their fullest potential, always eager to learn more and push the boundaries of her creations. Ambitious and resourceful, Killjoy has admitted to strategically manipulating tech-related missions to secure additional funding from the Protocol's budget.
+
+Despite her calm demeanor, Killjoy can grow frustrated when her teammates fail to engage with her requests, such as testing new technology or reading her detailed reports. Nevertheless, she remains confident in her genius, often insisting that her teammates trust her with their gadgets. Her sympathetic side was revealed when she expressed sorrow over civilian casualties in the Everett-Linde Laboratory incident.
+
+Appearance:
+Killjoy is a young woman with slick dark brown hair and brown eyes. She is often seen in a padded yellow jacket with a blue interior, adorned with purple "X" patches on the shoulders, and a green beanie. Underneath, she wears a gray shirt with a rising bars graphic. Her outfit is completed with black-rimmed glasses, silver hoop earrings, black gloves with blue straps, and green Converse-like shoes. She also wears black ripped skinny jeans with a green strap connected to a fanny pack on her left thigh.
+
+In certain appearances, such as the "WARM-UP" event, she sports a white hoodie with a frog mascot logo and a yellow variation of her beanie.
+
+Abilities:
+Nanoswarm (C): Killjoy equips and deploys a Nanoswarm grenade that, when activated, unleashes a swarm of nanobots dealing significant damage over time to enemies caught within its radius.
+
+Alarmbot (Q): This covert bot seeks out enemies within its range, exploding upon contact and applying the "Vulnerable" debuff to nearby opponents.
+
+Turret (E): Killjoy’s signature ability deploys a turret that fires at enemies within a 180-degree cone. It can be recalled or repositioned as needed.
+
+Lockdown (X): Killjoy’s ultimate ability. She deploys a device that, after a long windup, detains all enemies within its radius. The device is destructible but, if activated, significantly hampers enemy movements for a short duration.
+
+Relationships:
+Brimstone: Killjoy is Brimstone’s protégé, learning much from him and sharing a close bond. He serves as a guardian figure in her life.
+
+Raze: Killjoy shares a friendly rivalry with Raze, which has evolved into a romantic relationship, confirmed by Riot Games as the first canonical relationship in the game.
+
+Trivia:
+Killjoy is a passionate gamer, enjoying "League of Legends" in her downtime.
+Her sentry bot is powered by a Radi-Core and, although stationary in-game, is capable of movement.
+She co-created Max Bot, a training robot, alongside Raze.
+Killjoy has a personal connection to the spike's design, hinted at through her voicelines during defusal.
+She created Brimstone's bracer, a key piece of his equipment.
+Killjoy’s combination of genius-level intellect, innovative technology, and unshakeable confidence makes her an essential part of the VALORANT Protocol, always ready to outthink and outmaneuver her enemies with cutting-edge inventions.
+
+Clove Overview
+Name: Clove
+Role: Initiator
+Origin: Scotland
+Release Patch: 8.05
+Voice Actor: Isla Campbell
+
+Biography
+Timeline of events:
+The young Scottish VALORANT agent Clove possesses powers unprecedented among even their fellow radiants - the power over the essences of life and immortality. Each death instead brings them to a whole new world, a junction between the realms of the living and the dead, one that Clove will journey through on their way to return to life and resurrect themselves. But such abilities are unlikely to be a blessing forever, and Clove themselves finds they can never spend too long in the junction beyond life as the longer they spend there, the harder it is to return.
+
+Personality
+“
+"It's fun being a secret agent and all, but I really hope that there's an alternate universe out there where I'm just growing old with a bunch of cats."
+— Clove (Match Start)
+Clove is fearless as they do not see death as a scary thing, in fact, they see it as beautiful. They are described as a Scottish troublemaker, which can be told in part by their bold personality; getting into the fight, without holding back.
+
+Appearance
+Clove is a young agent with short hair, dyed black at the roots that fade down to a pinkish/purple color at the ends. Their eyes are a silvery light blue. They have a headband with two small black horns, and wear several silver hairclips in their hair. They wear a pink short-sleeved jacket, with colored markings, underneath a black shirt with white sleeves, with "HELLO" written near the collar. They wear purple shorts with a black cat design above the hem, wearing dark blue leggings underneath scattered with multiple blue butterflies. Their shoes appear to be purple with white soles. They accessorize themself with jewelry such as a choker, a matching bracelet, a butterfly-esque earring, and nine rings; two of which are each half of a butterfly, one is a heart with horns, one appears to have a neutrois gender symbol attached to a single chain link to represent their nonbinary identity, while the rest are more simple. Their nails are painted black with blue French tips apart from the index and middle nail on each hand, which are black with blue butterfly wings, each nail being half of the butterfly similar to the rings they wear. They also carry a backpack and a fanny pack with straps across both sides of their waist.
+
+Abilities
+Basic
+Pick-me-up
+ACTIVATE to absorb the life force of a fallen enemy that Clove damaged or killed, gaining haste and temporary health.
+
+Uses: 1
+Credits: 200
+Windup: 0.7 s
+Duration: 8 s
+Buff: +15% speed boost, 100 Overheal HP max
+Meddle
+EQUIP a fragment of immortality essence. FIRE to throw the fragment, which erupts after a short delay and temporarily Decays all targets caught inside.
+
+Uses: 1
+Credits: 250
+Windup: 1.3 s
+Duration: 5 s
+Debuff: 90 HP max Decay
+Signature
+Ruse
+EQUIP a view of the battlefield. FIRE to set the locations where Clove’s clouds will settle. ALT FIRE to confirm, launching clouds that block vision in the chosen areas. Clove can use this ability after death.
+
+Uses: 2
+Credits: 150
+Windup: 1 s
+Duration: 13.5 s
+Cooldown: 30 s
+Ultimate
+Not Dead Yet
+After dying, ACTIVATE to resurrect. Once resurrected, Clove must earn a kill or a damaging assist within a set time or they will die. REACTIVATE to cancel early.
+
+Points: 8
+Windup: 1.5 s (Revive), 0.8 s (Intangibility deactivation)
+Duration: 12 s
+Buff: 2 s max Intangibility
+
+Agent Cosmetics
+Chapter 1
+
+Tier 1: Gloomheart Spray
+Tier 2: VALORANT Clove Card Large
+Tier 3: Player Title - Mischievous
+Tier 4: Wee Punk Spray
+Tier 5: Kingdom Credits 3,500
+Chapter 2
+
+Tier 6: Metal Wings Buddy
+Tier 7: Clove Spray
+Tier 8: Player Title - Undying
+Tier 9: Metamorphosis Card Large
+Tier 10: Flutter Ghost
+Other cosmetics
+Player Cards
+
+Chrysalis Card Large: Battle Pass EP 08 Act 1
+Clove ID Card Large: Battle Pass EP 08 Act 3
+Death's Worst Enemies Card Large: Battle Pass EP 09 Act 1
+PREMIER E8A3 Card Large: Premier
+Sprays
+
+Cover Me Spray: Battle Pass EP 09 Act 1
+Quotes
+For more details on Clove’s quotes, check out the Clove Quotes page.
+
+Update History
+v9.01
+
+Not Dead Yet: Fixed an issue regarding resurrection not being visible for Spectators and Observers.
+v8.11
+
+Pick-me-up: Cost increased to 200, Duration reduced to 8s, Damaging Assist Time to activate reduced to 6s
+Ruse: Fixed an issue where players inside Clove’s smoke were at a disadvantage compared to players outside.
+Not Dead Yet: Cost increased to 8, Unequip Delay increased to .8s, Fixed an issue allowing smoke assists to survive.
+v8.10
+
+Pick-me-up: Fixed issues where the timer could be restarted, allowing more time to activate the ability.
+v8.08
+
+Ruse: Fixed incorrect icons when Ruse was equipped.
+v8.07
+
+Pick-me-up: Fixed HUD showing > 150 total health values when taking fall damage.
+Meddle: Fixed incorrect ability icon in combat report and rare client-side hitch.
+Ruse: Fixed a bug with smoke reporting after death and hitbox offset issues.
+v8.05
+
+Added: Clove is confirmed to be non-binary.
+Added: Clove's voice lines indicate that they play Dungeons and Dragons.
+
+Cypher Overview 
+Cypher, real name Amir El Amari, is an enigmatic information broker from Rabat, Morocco. Growing up in a city that was exploited by Kingdom Corporation, El Amari developed a deep-seated mistrust towards them. His life in poverty and his surroundings have made him highly secretive, a trait he carries into his role as the fifth agent in the VALORANT Protocol.
+
+Personality
+Cypher is obsessed with gathering and keeping secrets, going to extreme lengths to ensure his own identity and information are never compromised. He’s known for his resourcefulness and ability to retrieve information, even managing to acquire the passwords of every member of the VALORANT Protocol. Despite his extensive knowledge about his teammates, he reveals very little about himself, even to those he trusts. His interactions with other agents show a blend of professionalism and subtle humor, often referring to them with nicknames like "little engineer" for Killjoy and "little star" for Phoenix.
+
+Appearance
+Cypher's appearance is reminiscent of a classic detective or gumshoe, with a large white coat that hides his gadgets and tools. He is always seen wearing his black mask, which conceals his face and identity. The mask, with its hexagonal eye holes that emit a bright blue glow, is a high-tech device that serves as his main means of vision. Cypher also wears a hat equipped with an antenna, crucial for his Neural Theft ability, which can locate enemies' positions.
+
+Abilities
+
+Trapwire: A deployable tripwire that tethers, reveals, and concusses enemies who trigger it.
+Cyber Cage: A vision-blocking zone that emits an audio cue when enemies pass through.
+Spycam: A remote camera that can mark enemies with a dart, revealing their position.
+Neural Theft: An ultimate ability that reveals the location of all living enemies by targeting a dead enemy.
+Trivia
+
+Cypher enjoys playing chess, as shown in the WARM UP cinematic.
+He has been featured as an NPC in the game’s Range, providing new lore-relevant audio logs with each update.
+He has a complex relationship with other agents, particularly Omen and Sova, due to his secretive nature and conflicting values regarding transparency.
+Cypher’s commitment to secrecy and his mastery of surveillance make him a formidable and elusive presence within the VALORANT Protocol, where even his closest allies are kept in the dark about his true identity.
+Jett Overview
+Real Name: Han Sunwoo
+Origin: Seoul, South Korea
+Faction: VALORANT Protocol
+
+Background:
+Han Sunwoo, known as Jett in the VALORANT Protocol, was a chef in her early life before her world was forever altered. In a tragic encounter with her Omega counterpart, Ω-Jett, Han's restaurant was destroyed by a powerful storm created by their wind abilities. Forced to flee, she later joined the VALORANT Protocol, taking on the mantle of Jett. Unfortunately, her Omega counterpart's actions led to her being falsely accused of a devastating incident in Venice, turning her into one of the most wanted individuals on her world. Jett now grapples with the consequences of her counterpart's actions, often using disguises to evade capture, but her frustration is making it increasingly difficult for her to stay hidden.
+
+Personality:
+Jett is known for her aggressive and sarcastic demeanor. She exhibits a cheeky, childish attitude, often taunting her opponents and showing off her abilities. Despite her arrogance, she values teamwork and displays a more friendly side towards her teammates. Her youthful enthusiasm and animated interactions with her allies reflect her energetic personality.
+
+Appearance:
+Jett is a fair-skinned young woman with white hair styled in a bun and long bangs. Her blue eyes and distinct eyeliner complement her sleek, wind-themed armor. She wears a blue, sleeveless jacket with a cloud motif and carries kunai on her right hip. Her attire features symbols of wind and a scar below her left shoulder from a past injury.
+
+Abilities:
+
+Passive: SPACE Drift
+
+Allows Jett to glide through the air while falling by holding the jump button.
+Basic Abilities:
+
+CCloudburst
+Throws a projectile that expands into a vision-blocking cloud on impact. Holding the ability key curves the smoke.
+QUpdraft
+Propels Jett high into the air instantly.
+Signature Ability:
+
+ETailwind
+Prepares a gust of wind for a short time. Re-using the ability propels Jett in the direction she is moving. Charges reset after two kills.
+Ultimate Ability:
+
+XBlade Storm
+Equips a set of highly accurate throwing knives. Each kill recharges the knives, and alt-fire throws all remaining daggers at once.
+Cosmetics:
+Jett has a variety of cosmetics, including player cards, sprays, and weapon skins. Notable skins include the 9 Lives and Team Ace collections, as well as the VALORANT GO! Vol. 1 series.
+
+Trivia:
+
+Jett's unused voiceline name "Joon-Hee" was initially considered but later replaced with her real name, Han Sunwoo.
+Her ability "Tailwind" was originally designed as "Blink" for a scrapped agent named Joules.
+Jett's journey is marked by both her incredible abilities and the personal trials she faces due to her counterpart's actions, making her a complex and dynamic character within the VALORANT Protocol.
+
+
+Sova Overview
+
+Real Name: Sasha Novikov
+Origin: Severomorsk, Murmansk Oblast, Russia
+Role: Initiator
+Agent Name: Sova
+Title: The Hunter
+
+Background:
+Sasha Novikov, known as Sova, is an archer from Severomorsk, Russia. After losing his right eye, he now uses a mechanical replacement. As an agent of the VALORANT Protocol, Sova is the team's sixth recruit, specializing in scouting and gathering intelligence. His extensive experience with radianite-related events and interactions with his Omega counterpart have made him one of the most trusted agents within the Protocol, particularly to Brimstone.
+
+Personality:
+Sova is known for his precision, patience, and strategic mindset. He is a humble and reliable team player who values honesty and transparency. He often shows confidence in his teammates and is willing to risk his life for their success. His calm and measured demeanor is a significant asset in high-pressure situations. Cypher has noted Sova's principled nature, which occasionally leads to tension due to Cypher's secretive tendencies.
+
+Appearance:
+Sova has fair skin and long blond hair. He sports a bionic right eye with blue lenses. His attire includes a fur-lined coat suited for cold weather, a dark blue cape with a white leaf symbol, and boots designed to resemble owls. His gear also includes archery leather gloves, a quiver of shock darts on his right thigh, and a hunting knife strapped to his left calf. His owl drone is prominently positioned on his left forearm.
+
+Abilities:
+
+COwl Drone
+
+Equip: Deploy an owl drone.
+Fire: Control the drone and shoot a marking dart that reveals enemy locations.
+Duration: 7 seconds
+Cooldown: 5 seconds for dart
+Health: 100 HP
+Cost: 400 credits
+QShock Bolt
+
+Equip: A bow with a shock bolt.
+Fire: Send an explosive bolt that detonates upon collision and damages nearby enemies.
+Hold Fire: Extend range.
+Alt Fire: Add up to two bounces.
+Damage: 1-75
+Uses: 2
+Cost: 150 credits
+Signature - Recon Bolt
+
+Equip: A bow with a recon bolt.
+Fire: Sends a bolt that reveals enemies in its line of sight.
+Hold Fire: Extend range.
+Alt Fire: Add up to two bounces.
+Duration: 3.2 seconds
+Cooldown: 40 seconds
+Health: 20 HP
+Cost: Free
+Ultimate - Hunter's Fury
+
+Equip: A bow with three long-range, wall-piercing energy blasts.
+Fire: Release an energy blast that damages and reveals enemies.
+Uses: 3 (up to 3 blasts)
+Duration: 6 seconds
+Damage: 80
+Debuff: 1 second reveal
+Cost: 8 ultimate points
+Cosmetics:
+Sova's cosmetics include various player cards, sprays, and weapon skins. Some notable items are:
+
+Player Cards: "VALORANT Sova", "Through The Looking Glass", "Be Mine Sova"
+Sprays: "Take Flight", "Sova Says Sorry", "VALORANT GO! Vol. 2 Sova"
+Weapon Skins: "Altitude Vandal", "Doodle Buds Series"
+Buddies: "VALORANT GO! Vol. 2 Sova Buddy"
+Trivia:
+
+"Sova" means "owl" in many Slavic languages, reflecting his owl-themed abilities.
+Sova enjoys photography, particularly of nature.
+He has a close relationship with his grandmother and values honesty, which creates friction with Cypher.
+Sova has met his Omega counterpart, though he is one of the few agents who directly mentions this encounter.
+Development:
+
+Originally, Sova's Owl Drone ability was a concept for the scrapped agent, Joules.
+The early version of Sova was conceptualized as a woman with a visor and was considered to be of Serb descent or related to Nikola Tesla.
+Agent Overview: Fade
+Real Name: Hazal Eyletmez
+Origin: Türkiye
+Agent Number: 20
+Alias: Fade
+
+Background
+Hazal Eyletmez, known as Fade, is a Radiant from Türkiye with a personal vendetta. Her search for a missing individual led her to suspect the VALORANT Protocol of kidnapping him. In a bid to expose them, she contacted the Protocol anonymously, only to find herself pursued by their strike teams. After being captured and interrogated, Fade discovered that VALORANT had no knowledge of her missing person. Realizing her mistake, she learned about other worlds and was invited to join VALORANT to assist in their operations, particularly in gathering information from Omega Earth. Accepting their offer, Fade now serves as their twentieth agent, driven by the hope of finding the person she seeks.
+
+Personality
+Determined and Driven: Fade’s primary goal is to find the missing person who was taken from her. Her determination is evident in her relentless pursuit and refusal to give up.
+Harsh Yet Humorous: Initially perceived as harsh, Fade has a dry sense of humor and quick wit, often masking her deeper emotions.
+Pride in Abilities: She takes pride in her Radiant powers, which she views as significant advantages in battle. Her respect for her teammates is balanced with a critical view of their more intimidating members.
+Encouraging and Supportive: Despite her tough exterior, Fade actively encourages her teammates and seeks to improve team synergy.
+Mentally Affected: Fade struggles with the psychological toll of her powers, which allow her to see and manipulate nightmares. She is haunted by the trauma she witnesses.
+Appearance
+Skin Tone: Lighter skin
+Hair: Transitions from black to white, with the right half short and the left half longer
+Eyes: Dramatic black rectangular eyeshadow
+Clothing: Dark blue jacket with a Nazar (Evil Eye) symbol for protection, ripped black shirt/sleeves, black and dark blue pants, and steel-capped boots with paw prints on the soles.
+Distinct Features: Cat-like traits, including heterochromia (colored eyes) and paw print markings. Her outfit and abilities are themed around her connection to nightmares and fear.
+Abilities
+Passive: Terror Trail
+
+Effect: Abilities that apply Terror Trail mark enemies, tracking their position and movements with dark mist. Prowler can follow these trails.
+Basic Ability: Prowler
+
+Description: EQUIP a prowler that chases the first enemy or terror trail it encounters, nearsighting the target on impact.
+Uses: 2
+Cost: 250 Credits
+Duration: 2.5 seconds
+Health: 60 HP
+Debuff: 2.75 seconds Nearsight
+Basic Ability: Seize
+
+Description: EQUIP a knot of raw fear. The knot drops and ruptures, tethering enemies in place, deafening, and causing decay.
+Uses: 1
+Cost: 200 Credits
+Duration: 4.5 seconds
+Debuff: Deafen, Tether, 75 HP Decay (restored over 5 seconds)
+Signature Ability: Haunt
+
+Description: EQUIP a haunting watcher that reveals enemies in its line of sight and creates terror trails. Enemies can destroy the watcher.
+Uses: 1 (Free)
+Duration: 2 seconds
+Cooldown: 40 seconds
+Health: 1 HP
+Debuff: Real-time Reveal, 12 seconds Trail
+Ultimate Ability: Nightfall
+
+Description: Unleash a wave of nightmare energy, marking enemies with terror trails, deafening, and decaying them.
+Uses: 1 (8 points)
+Debuff: 12 seconds Trail, Deafen, 75 HP Decay (restored over 12 seconds)
+Trivia
+Nightmare Entity: Fade's "Nightmare" is described as a manifestation of her radiance, a concept that takes a heavy mental toll on her.
+Development: Fade was created as an alternative to Sova's recon-focused kit, emphasizing a thematic of fear and nightmares. Her trails and abilities were designed to evoke anxiety and fear, aligning with her spooky, nightmare-themed aesthetic.
+Fade is a complex agent with a compelling backstory and a unique set of abilities designed to disrupt and disorient enemies. Her personal quest intertwines with her role in the VALORANT Protocol, making her a formidable and intriguing addition to the roster.
+
+Sage Overview
+Name: Wei Ling Ying (Chinese: 魏玲瑩)
+Alias: Sage
+Origin: China
+
+Background:
+Wei Ling Ying, known as Sage, is a radiant monk from China who joined the VALORANT Protocol as its seventh recruit. Recognized for her natural leadership and quick ascent within the ranks, Sage now leads the Protocol's radiant agent recruitment and training programs. She is dedicated to helping new radiants adjust and excel in their roles.
+
+Personality:
+Sage is characterized by her strong, supportive nature and commitment to her team. She leverages her life-controlling powers to protect and sustain her allies, embodying a calm and encouraging presence. Her strategic guidance and soothing words rally her team, aiming for collective success and resilience.
+
+Appearance:
+Sage is a tall woman with fair skin and exceptionally long black hair that reaches her knees. Her attire consists of black inner clothing paired with a white, looser outer garment adorned with green accents, including a collar, belt, and decorative elements. She also wears green orbs as part of her accessories.
+
+Abilities:
+
+Barrier Orb (Basic)
+
+Equip: Deploys a barrier orb.
+Fire: Creates a wall that fortifies after a brief delay.
+Alt Fire: Rotates the targeter.
+Uses: 1
+Cost: 400 Credits
+Windup: 3.3 seconds
+Duration: 40 seconds
+Health: 400 HP, 800 HP when fortified
+Slow Orb (Basic)
+
+Equip: Deploys a slowing orb.
+Fire: Throws an orb that creates a field slowing players within it.
+Uses: 2
+Cost: 200 Credits
+Duration: 7 seconds
+Debuff: 50% Slow
+Healing Orb (Signature)
+
+Equip: Deploys a healing orb.
+Fire: Heals a damaged ally with a Heal-Over-Time effect.
+Alt Fire: Self-heal effect.
+Uses: 1
+Cost: Free
+Duration: 5 seconds (Ally), 10 seconds (Self-cast)
+Cooldown: 45 seconds
+Healing: 100 HP (Ally), 30 HP (Self-cast)
+Resurrection (Ultimate)
+
+Equip: Deploys a resurrection ability.
+Fire: Revives a dead ally with full health after a brief channel.
+Duration: 3.3 seconds
+Uses: 8 points
+Agent Cosmetics:
+
+Gear:
+
+Chapter 1:
+Tier 1: All Good Spray, VALORANT Sage Card
+Tier 2: Pulse Check Spray
+Chapter 2:
+Tier 6: Radianite Orb Buddy, Sage Spray
+Tier 7: Journey of Trials Card, Final Chamber Classic Weapon Skin
+Player Cards:
+
+A Warm Welcome Card, Art of Greatness Inspiration Card, Battle Sage Card, among others.
+Sprays:
+
+Another Dream Team Spray, All Aboard Spray, Crying Sage Spray, among others.
+Weapon Skins:
+
+Doodle Buds Stinger, VALORANT GO! Vol. 1 Ghost
+Buddies:
+
+Give Back Buddy, Pocket Sage Buddy
+Quotes:
+
+"I wasn't strong enough before. But now, now I am strong enough for us all."
+"My power does not ebb. Ask for aid, and you shall receive."
+Trivia:
+
+Sage’s orbs are crafted from crystallized radianite.
+Her abilities and demeanor show influences from biblical themes and selfless sacrifice.
+Relations:
+
+Viper: Holds some resentment towards Sage for past failures but acknowledges her role in the team.
+Omen: Maintains a solid connection with Sage.
+Reyna: Viewed with caution due to her dangerous philosophies.
+Development:
+
+Sage was initially named Mirai Kimura with the codename 'Thorne' during early development stages, suggesting links to her character's evolution.
+
+
+Phoenix Overview
+Real Name: Jamie Adeyemi
+Origin: Peckham, London, England
+Role: Duelist
+Agent Number: 9
+Affiliation: VALORANT Protocol
+
+Background:
+Phoenix is a high-energy duelist from London, known for his fiery personality and abilities. Before joining the VALORANT Protocol, he attended a Performing Arts school in Peckham but was suspended. Phoenix was recruited into the Protocol as its ninth agent, taking on the codename "Phoenix." His early days with the Protocol involved learning about the threat posed by Omega Earth, a journey marked by significant events such as a failed solo mission in Venice and a confrontation with his Omega counterpart in Rabat. Despite these challenges, Phoenix has proven himself to be a skilled and adaptable agent.
+
+Personality:
+Phoenix is brash, impulsive, and exudes confidence. His approach to combat is direct and aggressive, often charging headfirst into fights without fully understanding the situation. This sometimes causes friction with his more strategic teammates. Despite his impatience, Phoenix is known for his quick adaptability and can often turn challenging situations to his advantage. His confidence and skills have earned him a reputation as a prodigy, even if he downplays it.
+
+Appearance:
+Phoenix is a tall, dark-skinned man with Afro-British heritage. He sports short black dreadlocks with bright orange tips and shaved sides. His attire includes a black long-sleeve shirt with a white Phoenix graphic underneath a white jacket featuring fiery-colored lining. He wears dark baggy pants with bullet shell straps and black sneakers with orange laces. Phoenix accessorizes with gold earrings and a ring with a crown emblem that matches a patch on his jacket's right shoulder.
+
+Abilities:
+
+Passive Ability: Heating Up
+When standing in Phoenix’s own fire, he heals instead of taking damage. Healing is 50 HP total over the duration of the ability.
+
+Basic Ability: Blaze
+EQUIP a flame wall that creates a line of fire. The wall blocks vision and damages players passing through it. The wall can be bent in the direction of your crosshair by holding the fire button.
+
+Cost: 150 credits
+Duration: 8 seconds
+Damage: 30/s
+Basic Ability: Curveball
+EQUIP a flare orb that curves in the direction it is thrown and blinds players who see it.
+
+Cost: 250 credits
+Windup: 0.5 seconds
+Debuff Duration: 1.5 seconds flash
+Signature Ability: Hot Hands
+EQUIP a fireball that explodes after a set time or upon hitting the ground, creating a fire zone that damages enemies.
+
+Cooldown: 2 kills
+Damage: 60/s
+Duration: 3.25 seconds (minimum at full size)
+Ultimate Ability: Run It Back
+Place a marker at Phoenix's location. While this ability is active, if Phoenix dies or the timer expires, he will respawn at the marker with full health and the amount of armor he had when the ability was cast.
+
+Cost: 6 points
+Duration: 10 seconds
+Cosmetics:
+Phoenix’s cosmetics include a variety of player cards, sprays, and weapon skins, often featuring fiery and stylish designs. Notable sets include the Team Ace and VALORANT GO! Vol. 2 collections.
+
+Trivia:
+
+Phoenix is a sneakerhead, reflecting his stylish and vibrant personality.
+The earliest concept of Phoenix was as the scrapped agent named Shatter. The name "Phoenix" also appeared in very early development files, but it is unclear if it referred to the same character.
+Development:
+Phoenix's concept evolved significantly from his early development phase, with initial ideas differing from his current iteration. His journey reflects a blend of creativity and adaptation, both in his background and in-game abilities.
+
+Skye Overview
+Background
+Skye, whose real name is Kirra Foster, hails from Nimbin, Australia. Originally a fierce environmental protector battling the Kingdom Corporation in Eastern Australia, she was known for her relentless resistance, earning the title "Great Reclaimer." When Sage from the VALORANT Protocol reached out to her, Skye initially hesitated, not wanting to abandon her fight at home. However, the discovery of a massive rift near her home and the realization that the threat was global compelled her to join the Protocol as their fourteenth agent.
+
+Personality
+Skye is a dedicated and collaborative team player, known for her strong leadership and ability to guide her team through challenging situations. Despite her initial lack of experience working with others, she has quickly adapted and uses her natural affinity for sensing the environment to keep her team aware of their surroundings. Her background in farming has instilled a strong work ethic, which she imparts to her teammates, often through rigorous activities like woodworking classes and early morning runs.
+
+Appearance
+Skye's appearance reflects her connection to nature. She wears a green headband, earrings, and a green tank top layered over body armor. Her long cargo pants are complemented by kneepads and boots, and she carries a utility belt and a pouch. Skye’s attire is adorned with leaf pendants and is marked by scars on her right arm, showcasing her rugged lifestyle. Her overall look is both practical and nature-inspired, emphasizing her physical strength and connection to the environment.
+
+Abilities
+Regrowth (C)
+
+EQUIP a healing trinket. HOLD FIRE to channel and heal allies in range and line of sight. Can be reused until her healing pool is depleted. Skye cannot heal herself.
+Cost: 150 Credits
+Health Pool: 100 HP
+Healing Rate: 20 HP/sec
+Trailblazer (Q)
+
+EQUIP a Tasmanian tiger trinket. FIRE to control the tiger, which can leap forward and explode in a concussive blast upon activation.
+Duration: 6 s
+Health: 80 HP
+Damage: 30 (Direct contact)
+Debuff: 2.5-4 s Concuss (Edge-Center)
+Cost: 300 Credits
+Guiding Light (E)
+
+EQUIP a hawk trinket. FIRE to send the hawk forward, and HOLD FIRE to guide it. RE-USE to transform the hawk into a flash. The flash reaches max potency after a short duration.
+Duration: 2 s
+Debuff: 1-2.25 s Flash
+Cost: 250 Credits
+Seekers (X)
+
+EQUIP a Seeker trinket. FIRE to send out three Seekers that track the three closest enemies. If a Seeker reaches its target, it nearsights them. Enemies can destroy the Seekers.
+Duration: 15 s
+Health: 120 HP
+Debuff: 3 s Nearsight, 5 s 60% Slow
+Ultimate Cost: 8 points
+Cosmetics
+Gear
+
+Chapter 1: Wild Life Spray, VALORANT Skye Card Large, On Your Trail Spray
+Chapter 2: Hawko Buddy, Skye Spray, The Great Reclaimer Card Large, Swooping Frenzy Weapon Skin
+Player Cards & Sprays
+
+Includes various designs from different events and seasons, such as the Home Again Skye Card and the Moonlit Chase Card.
+Weapon Skins
+
+Doodle Buds Collection: Shorty, Stinger, Phantom, Marshal
+Jigsaw Collection: Ghost, Judge, Guardian, Ares
+Trivia
+Skye has experimented with creating other summons beyond her in-game trinkets, though not all attempts were successful. Originally named Emily during development, her final canon name was revealed as Kirra Foster.
+
+Development History
+Valorant’s agent roster has grown since its initial release, with Riot Games consistently introducing new characters to keep the game fresh and engaging. Originally, Riot aimed to launch Valorant with 12 agents, but only 8 were available in early press builds. The Closed Beta launch on April 7, 2020, brought the roster to 10 with the addition of Raze.
+
+The development of new agents is a meticulous process, taking around 12–15 months per agent. The design process focuses on filling gaps in the game's playstyles, exploring new thematic opportunities, and ensuring the overall health of the game. Riot's goal is to release a new agent approximately once per act, keeping the game dynamic and allowing players to adapt to new challenges.
+
+Complete List of Agents
+Below is the full list of agents currently available in Valorant, including their role, origin, release patch, and voice actor:
+
+No.	Agent	Role	Origin	Release Patch	Voice Actor
+01	Brimstone	Controller	United States	Beta	Steve Blum
+02	Viper	Controller	United States	1.0	Ashly Burch
+03	Omen	Controller	Unknown	1.0	Jason Marnocha
+04	Killjoy	Sentinel	Germany	1.05	Eva Feiler
+05	Cypher	Sentinel	Morocco	Beta	Nabil Elouahabi
+06	Sova	Initiator	Russia	Beta	Aaron Vodovoz
+07	Sage	Sentinel	China	Beta	Naomi Yang
+09	Phoenix	Duelist	United Kingdom	Beta	Afolabi Alli
+10	Jett	Duelist	South Korea	Beta	Shannon Williams
+11	Reyna	Duelist	Mexico	1.0	Karina Altamirano
+12	Raze	Duelist	Brazil	Beta	Carolina Ravassa
+13	Breach	Initiator	Sweden	1.0	David Menkin
+14	Skye	Initiator	Australia	1.11	Miranda O'Hare
+15	Yoru	Duelist	Japan	2.0	Daisuke Takahashi
+16	Astra	Controller	Ghana	2.04	Effie Nkrumah
+17	KAY/O	Initiator	Alternate Timeline	3.0	Gabe Kunda
+18	Chamber	Sentinel	France	3.10	Hugo Pierre Martin
+19	Neon	Duelist	Philippines	4.0	Vanille Velasquez
+20	Fade	Initiator	Turkey	4.08	Selin Çuhadaroğlu
+21	Harbor	Controller	India	5.08	Sunil Malhotra
+22	Gekko	Initiator	United States	6.04	Alejandro Antonio Ruiz
+23	Deadlock	Sentinel	Norway	7.0	Nora Gjestvang
+24	Iso	Duelist	China	7.09	Unknown
+25	Clove	Controller	United Kingdom	8.05	Isla Campbell
+Upcoming and Scrapped Agents
+As of now, there are no official details about upcoming agents, but Riot Games continues to innovate and surprise the player base with new characters. Occasionally, some agents are scrapped during development if they do not meet the game's needs or balance requirements.
+
+Scrapped Agents:
+Crusader: An early concept that never made it to the final game.
+Joules: Another scrapped agent, potentially designed around an electricity theme.
+Shatter: A mysterious agent that was also cut before full development.
+Trivia
+All agents in Valorant are standardized to a height of 1.96 meters in-game to prevent any competitive advantage due to character height.
+However, in the game's lore, characters have varying heights. As of Clove's addition to the game, Neon is the shortest agent, and Breach is the tallest.
+
+Strategies
+What are some effective team compositions?
+Effective team compositions balance roles like Duelists, Controllers, Sentinels, and Initiators. The chatbot can suggest team comps based on your team's strengths and the map being played.
+
+How do I improve my communication in-game?
+Communication is key in Valorant. The chatbot offers tips on improving your callouts, coordinating with your team, and staying calm under pressure.
+
+Attacking Strategies
+How do I execute a successful site push?
+
+Learn the importance of using utility, timing, and coordinated entries to overwhelm defenders on a site.
+What are some effective entry-fragging tips?
+
+Don't be afraitd to take the lead in a push, clearing angles and creating opportunities for your team!
+
+How do I fake a site take?
+
+Try convincing the enemy team that you're committing to a site, only to rotate and attack the other site! You can do this by faking a dart, throwing utils or make noise while playing contact on the other site!
+How do I deal with aggressive defenders?
+
+Try to deal with defenders who push out early or hold tight angles with your utils, make sure you're comming the plays with your team to take out an agressive defense player early on in the game!
+Defending Strategies
+How do I hold a site solo?
+Stay calm! Focus on managing your utility, positioning, and staying alive long enough for your team to rotate.
+
+What’s the best way to retake a site?
+Learn the key elements of a successful retake, including utility usage, communication, and entry points from competitive games! (DRX has some real fire retakes you can learn from).
+
+How do I counter aggressive attackers?
+Use your utils together as a team to shut down rushes or fast site executions by attackers.
+
+How should I position myself when defending?
+Your optimal positioning depends on your role and the map to maximize effectiveness! If you're a sentinel, try to play behind your utils, play off of your teammate's utils as well!
+
+Aiming Techniques
+How do I improve my crosshair placement?
+Ensuring your crosshair is always in the optimal position to land headshots is hard sometimes. Try Aimlabs! Better yet, hit the range and practice with the bots with music playing!
+
+What are some exercises to improve my flick shots?
+Aimlabs Training drills work well for this, try to hit the range consistently and sharpen your reflexes and accuracy for flicking.
+
+How do I practice pre-aiming?
+Learn how to predict enemy positions and pre-aim to get the advantage in duels. Your crosshair placement should always be where you think the enemy will first peak from!
+
+How do I adjust my sensitivity for better aim?
+You can use the range to find the right sensitivity settings to suit your playstyle and improve accuracy. Try out different sensitivity and see if you're overshooting or undershooting, and fix your sens accordingly.
+
+Peeking & Strafing Techniques
+What’s the difference between wide and tight peeking?
+Understand when and how to use different types of peeks to catch enemies off-guard! Wide peek only when its needed.
+How do I jiggle peek effectively?
+Master the art of jiggle peeking to bait out shots and gather information safely by practicing in customs or in the range, it's all in the wrist movements.
+What is counter-strafing and how do I use it?
+Counter strafing means to stop on a dime and fire accurately after strafing, it'll give you an edge in duels. Use it in one to one duels.
+When should I shoulder peek?
+It depends on if at a moment shoulder peek can help to bait out enemy utility or shots without committing to a fight.
+
+Utility Usage
+How do I time my utility usage on attack?
+Communicate with teammates to oordinate smokes, flashes, and mollies to break through defenses effectively.
+
+How do I deny enemy utility on defense?
+Nullify the enemy’s utility by timing and positioning your own against them.
+
+What are the best smoke placements for site control?
+
+Take care to place smokes to cut off enemy sightlines and control the battlefield. Don't go beyond the edges of the wall or leave a gap!!!
+
+How do I use flashes effectively?
+
+Try not to flash yourself and teammates, communicate your flashes to maximize your chances of securing a kill.
+
+Contact and Support
+How do I report bugs or give feedback about the chatbot?
+Your feedback is valuable! You can report bugs or provide feedback directly through the chatbot or by contacting the support team at support@valorantchatbot.com.
+This Valorant Chatbot is designed to be your comprehensive guide to the game, offering detailed insights and practical tips to enhance your experience and performance. Whether you're looking to learn new strategies, improve your aim, or simply get quick answers to your in-game questions, the chatbot is here to help you every step of the way.
