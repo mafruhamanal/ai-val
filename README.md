@@ -23,14 +23,21 @@ cd valorant-ai-chatbot
 
 Install Dependencies:
 
+```bash
 npm install
-or
+# or
 yarn install
+# or
+pnpm install
+# or
+bun install
+```
 
 Set Up Environment Variables:
 
 Create a .env.local file in the root directory and add the following environment variables:
 
+```bash
 NEXT_PUBLIC_OPENAI_API_KEY=your-openai-api-key
 
 NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
@@ -48,12 +55,19 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-firebase-storage-bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-firebase-messaging-sender-id
 
 NEXT_PUBLIC_FIREBASE_APP_ID=your-firebase-app-id
+```
 
 Start the Development Server:
 
+```bash
 npm run dev
-or
+# or
 yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
 The application will be available at http://localhost:3000.
 
